@@ -7,8 +7,8 @@ import RefCornerImg from '../../assets/imgs/ref-corner.png'
 export default function Info() {
   const upperCard = "h-full border border-border rounded-lg p-4 pb-6 bg-surface"
   const lowerCard = "h-full border border-border rounded-lg p-4 bg-surface"
-  const eduHubCard = "flex w-full items-center justify-center gap-4 rounded-lg border border-border p-3 text-center sm:gap-6 xl:w-[80%] transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-lg hover:bg-primary/10"
-  const refCornerCard = "flex justify-center gap-2 rounded-lg border border-primary p-2 text-center transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-lg hover:bg-primary/10"
+  const eduHubCard = "flex w-full items-center justify-center gap-4 rounded-lg border border-border p-3 text-center sm:gap-6 xl:w-[80%] transition duration-200 ease-out hover:-translate-y-0.5 hover:text-primary hover:shadow-lg hover:bg-primary/10"
+  const refCornerCard = "flex justify-center gap-2 rounded-lg border border-primary p-2 text-center transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-lg hover:text-primary hover:bg-primary/10"
   const stayConnectedIcons = "size-10 text-text sm:size-12"
   const richImgBox = "relative overflow-hidden rounded-lg border border-border bg-[radial-gradient(circle_at_50%_0%,var(--img-card-glow-1),transparent_34%),radial-gradient(circle_at_80%_15%,var(--img-card-glow-2),transparent_28%),linear-gradient(180deg,var(--img-card-top)_0%,var(--img-card-mid)_42%,var(--img-card-bottom)_100%)] shadow-[inset_0_1px_0_var(--img-card-inset-top),inset_0_-24px_40px_var(--img-card-inset-bottom)]"
 
@@ -52,16 +52,16 @@ export default function Info() {
               >EDUCATIONAL HUB</h1>
             </div>
             <div className='flex flex-col gap-4 items-center'>
-              <Link to="/education" className={eduHubCard}>
-                <IconBook2 stroke={1.5} className='size-8 text-accent' />
+              <Link to="/education" className={`${eduHubCard} group`}>
+                <IconBook2 stroke={1.5} className='size-8 text-accent transition duration-200 ease-out group-hover:text-primary' />
                 <h2>LEARN THE GAME</h2>
               </Link>
-              <Link to="/education" className={eduHubCard}>
-                <IconBrain stroke={1.5} className='size-8 text-danger' />
+              <Link to="/education" className={`${eduHubCard} group`}>
+                <IconBrain stroke={1.5} className='size-8 text-danger transition duration-200 ease-out group-hover:text-primary' />
                 <h2>MENTAL HEALTH</h2>
               </Link>
-              <Link to="/education" className={eduHubCard}>
-                <IconPlayerPlay stroke={1.5} className='size-8 text-info' />
+              <Link to="/education" className={`${eduHubCard} group`}>
+                <IconPlayerPlay stroke={1.5} className='size-8 text-info transition duration-200 ease-out group-hover:text-primary' />
                 <h2>ABUSE VIDEOS</h2>
               </Link>
             </div>

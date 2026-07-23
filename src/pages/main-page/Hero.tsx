@@ -18,7 +18,7 @@ export default function Hero() {
           </p>
           <div className='flex flex-col gap-3 font-medium text-[1.1rem] sm:flex-row sm:text-[1.2rem] lg:text-[1.3rem]'>
             <Link to="/quiz" className='flex w-full items-center justify-center rounded-lg border border-primary bg-primary px-5 py-3 text-surface sm:w-52 lg:w-56 transition duration-200 ease-out hover:-translate-y-0.5 hover:bg-primary/90 hover:shadow-lg'>TAKE QUIZ</Link>
-            <Link to="/about" className='flex w-full items-center justify-center rounded-lg border border-primary bg-primary/0 px-5 py-3 text-text sm:w-52 lg:w-56 transition duration-200 ease-out hover:-translate-y-0.5 hover:bg-bg/90 hover:border-primary hover:text-text hover:shadow-lg'>ABOUT US</Link>
+            <Link to="/about" className='flex w-full items-center justify-center rounded-lg border border-primary bg-primary/0 px-5 py-3 text-text sm:w-52 lg:w-56 transition duration-200 ease-out hover:-translate-y-0.5 hover:bg-bg/90 hover:border-primary hover:text-primary hover:shadow-lg'>ABOUT US</Link>
           </div>
         </div>
         <div className="relative min-h-80 flex-1 overflow-hidden bg-(image:--bg-img) bg-cover bg-center bg-no-repeat sm:min-h-105 lg:min-h-0 lg:bg-right lg:[--fade-amount:40%] lg:mask-[linear-gradient(to_right,transparent,black_var(--fade-amount),black_100%)]">
