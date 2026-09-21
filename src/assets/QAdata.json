@@ -1,0 +1,922 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Offside Trigger",
+      "scenario": "The referee calls offside on what you're SURE was a perfectly timed run. Your kid had a clear breakaway. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Groan internally and mutter \u201ccome on\u2026\u201d under your breath.", "pts": 0 },
+        { "letter": "B", "text": "Stand up and yell \u201cTHAT WAS ONSIDE!\u201d loud enough for three fields to hear.", "pts": 10 },
+        { "letter": "C", "text": "Cup your hands and shout \u201cDid you forget your glasses, ref?!\u201d", "pts": 25 },
+        { "letter": "D", "text": "Launch a detailed play-by-play roasting the ref's every call like you're hosting a podcast from the sideline.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 1 \u2014 Verbal Taunting</span> \u201cDid you forget your glasses?\u201d is a textbook example of Level 1 abuse under U.S. Soccer\u2019s RAP policy \u2014 <strong>minimum 2-game suspension</strong>. Also, the ref you\u2019re yelling at has a 72% chance of being under 19 years old. So\u2026 you may be roasting a high schooler."
+    },
+    {
+      "id": 2,
+      "tag": "RAP Physical Level 2",
+      "title": "The Post-Game Parking Lot",
+      "scenario": "Your kid's team just lost 2-1 on a controversial penalty call. The final whistle blew 5 minutes ago. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Tell your kid \u201cgreat effort\u201d and head to get ice cream. Life goes on.", "pts": 0 },
+        { "letter": "B", "text": "Linger near the field packing up chairs extra slowly, making sure the ref feels the weight of your disapproving head-shake.", "pts": 10 },
+        { "letter": "C", "text": "Wait by your car for a \u201ccalm, adult conversation\u201d with the referee about that penalty call.", "pts": 35 },
+        { "letter": "D", "text": "Follow the referee to their car to deliver your full halftime analysis in person.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 2 \u2014 Confrontation</span> \u201cFollowing the referee to their car\u201d is explicitly listed as Physical Level 2 abuse \u2014 <strong>minimum 10-game suspension</strong>. In one documented case, parents confronted a ref so aggressively in a parking lot that he reached for softball bats in self-defense. Over ice cream, nobody reaches for weapons."
+    },
+    {
+      "id": 3,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Social Media Referee Critic",
+      "scenario": "Someone posts a video clip of a controversial call from your kid's game on the league's Facebook group. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Keep scrolling. You have a life outside youth soccer. (Allegedly.)", "pts": 0 },
+        { "letter": "B", "text": "Comment \u201cterrible call \ud83e\udd26\u201d and move on with your day.", "pts": 5 },
+        { "letter": "C", "text": "Share the video with a 4-paragraph essay tagging the league, demanding accountability.", "pts": 30 },
+        { "letter": "D", "text": "Track down the referee\u2019s personal social media and post the clip on their page with a detailed performance review.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 3 \u2014 Threats &amp; Cyberbullying</span> Posting attacks on a referee\u2019s personal social media is classified as Level 3 abuse \u2014 the same tier as parking-lot threats. <strong>Minimum 6-game and/or 6\u201324 month suspension.</strong> After Euro 2004, referee Urs Meier received 16,000 threatening emails and needed police protection. Let that sink in."
+    },
+    {
+      "id": 4,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Selective Hearing Test",
+      "scenario": "It's the third foul called on your team this half, but you haven't seen a single one called the other way. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Consider that maybe, just maybe, your perspective from behind the cooler isn\u2019t as accurate as the referee\u2019s on-field view.", "pts": 0 },
+        { "letter": "B", "text": "Say to the parent next to you: \u201cThis ref is calling it a bit one-sided, huh?\u201d", "pts": 5 },
+        { "letter": "C", "text": "Yell \u201cCALL IT BOTH WAYS, REF!\u201d loud enough to briefly pause play on the adjacent field.", "pts": 15 },
+        { "letter": "D", "text": "Shout \u201cWhat\u2019s the other team paying you?!\u201d and wait for laughs that never come.", "pts": 30 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 1 \u2014 Verbal Taunting</span> \u201cWhat\u2019s the other team paying you?\u201d is cited in the RAP program as a direct example of abuse. Research also shows that parents\u2019 <strong>lack of knowledge of the Laws of the Game</strong> is a top driver of confrontation. Most \u201cmissed calls\u201d aren\u2019t missed at all \u2014 you just don\u2019t know the rule."
+    },
+    {
+      "id": 5,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Emotional Thermometer",
+      "scenario": "It's a tied game, 5 minutes left. A call goes against your team. Rate your most likely PEAK reaction:",
+      "options": [
+        { "letter": "A", "text": "One sarcastic clap. Then you sit back down like a functioning adult.", "pts": 5 },
+        { "letter": "B", "text": "Stand up, throw your arms out, and yell \u201cOH COME ON!\u201d while spilling your coffee.", "pts": 10 },
+        { "letter": "C", "text": "Pace the sideline yelling things your mother would not approve of.", "pts": 30 },
+        { "letter": "D", "text": "March toward the referee screaming obscenities, veins fully visible. Your Fitbit thinks you\u2019re doing HIIT.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 2 \u2014 Harassment / Intimidation</span> Profanity-laden outbursts directed at a referee are Level 2 abuse \u2014 <strong>minimum 4-game suspension</strong>. The RAP program warns that unchecked verbal abuse \u201ctakes an emotional toll and has the potential to escalate into physically dangerous situations.\u201d Your Fitbit was right to be concerned."
+    },
+    {
+      "id": 6,
+      "tag": "Youth Referee Awareness",
+      "title": "The Youth Ref Reality Check",
+      "scenario": "A referee makes a bad call at your 10-year-old's game. Before you react, do you consider how old the referee might be?",
+      "options": [
+        { "letter": "A", "text": "Yes \u2014 that ref looks about 14, so I keep my mouth completely shut and let them learn.", "pts": 0 },
+        { "letter": "B", "text": "I notice they\u2019re young, so I downgrade from yelling to aggressive sighing.", "pts": 5 },
+        { "letter": "C", "text": "Age doesn\u2019t matter \u2014 a bad call is a bad call, and someone needs to tell them.", "pts": 25 },
+        { "letter": "D", "text": "Wait, these referees are kids?! I thought they were just short adults who like whistles.", "pts": 15 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Youth Referee Data</span> <strong>72% of U.S. youth soccer referees are under 19.</strong> In Minnesota, 69% are under 14. In Tennessee, 60% of 3,500 referees are minors. Under the RAP policy, abuse targeting minor referees carries <strong>TRIPLE</strong> the standard penalty. You may literally be screaming at a 13-year-old who\u2019s doing this for pizza money."
+    },
+    {
+      "id": 7,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Halftime Expert",
+      "scenario": "You're coaching and the ref has missed several calls in the first half. Halftime arrives. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Remind your players to focus on what they can control \u2014 which is not the referee.", "pts": 0 },
+        { "letter": "B", "text": "Calmly approach the ref: \u201cHey, can you watch for contact in the box second half?\u201d", "pts": 5 },
+        { "letter": "C", "text": "Stand directly in the ref\u2019s walking path and say \u201cWe need to talk\u201d with the energy of a disappointed principal.", "pts": 25 },
+        { "letter": "D", "text": "Get in the ref\u2019s personal space and loudly list every first-half mistake so both teams\u2019 parents can enjoy the show.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 2 \u2014 Intimidation</span> Using body language to make a referee feel physically unsafe \u2014 blocking their path, invading their space \u2014 is Level 2 Harassment/Intimidation. <strong>Minimum 4-game suspension for coaches.</strong> Research also shows that when coaches model disrespect, spectators and players follow. Your sideline energy is contagious \u2014 in the worst way."
+    },
+    {
+      "id": 8,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Red Card Meltdown",
+      "scenario": "Your star player gets a red card you believe is completely unjustified. In the heat of the moment, which of these has ever crossed your mind \u2014 even if you didn't say it out loud?",
+      "options": [
+        { "letter": "A", "text": "\u201cI disagree, but the ref\u2019s decision is final. Let\u2019s regroup.\u201d", "pts": 0 },
+        { "letter": "B", "text": "\u201cThis ref is having an absolutely terrible game.\u201d", "pts": 5 },
+        { "letter": "C", "text": "\u201cYou\u2019re gonna REGRET that call, ref!\u201d", "pts": 35 },
+        { "letter": "D", "text": "\u201cI\u2019ll see you in the parking lot.\u201d (Said coolly, like a movie villain.)", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 3 \u2014 Threats</span> Both \u201cYou\u2019re gonna regret that\u201d and \u201cI\u2019ll see you in the parking lot\u201d are specifically cited as Level 3 abuse \u2014 <strong>minimum 6-game and/or 6\u201324 month suspension</strong>. Threats can also lead to criminal charges. More than 20 U.S. states now have specific laws criminalizing sports official abuse. Your parking-lot tough talk could come with a court date."
+    },
+    {
+      "id": 9,
+      "tag": "Behavioral Self-Assessment",
+      "title": "The Sideline Identity",
+      "scenario": "Be brutally honest. Which sideline archetype describes you best?",
+      "options": [
+        { "letter": "A", "text": "\u201cThe Silent Supporter\u201d \u2014 you clap, cheer your kid\u2019s name, and bring top-tier snacks. Refs don\u2019t know you exist.", "pts": 0 },
+        { "letter": "B", "text": "\u201cThe Anxious Commentator\u201d \u2014 you narrate the entire game under your breath, occasionally spilling into audible territory.", "pts": 10 },
+        { "letter": "C", "text": "\u201cThe Assistant Referee\u201d \u2014 you call offside from 40 yards away, signal throw-ins, and helpfully correct the ref on every decision.", "pts": 25 },
+        { "letter": "D", "text": "\u201cThe Main Character\u201d \u2014 by halftime, more people are watching you than the actual game.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Referee Retention Data</span> <strong>80% of new referees quit within 2 years</strong>, and unruly spectators are the #1 reason cited. The irony is staggering: the people who make the game possible (refs) are driven out by the people who can\u2019t play the game without them. If you\u2019re \u201cThe Main Character,\u201d the sequel is called \u201cGame Canceled Due to No Refs.\u201d"
+    },
+    {
+      "id": 10,
+      "tag": "Pattern Recognition",
+      "title": "The Morning After",
+      "scenario": "After a game where you were\u2026 let\u2019s say \u2018vocal\u2019 toward the referee, the next morning you\u2026",
+      "options": [
+        { "letter": "A", "text": "Feel fine. You clapped, you cheered, you kept it clean. No regrets.", "pts": 0 },
+        { "letter": "B", "text": "Feel a twinge of \u201cmaybe I was a bit much\u201d and quietly resolve to dial it back.", "pts": 5 },
+        { "letter": "C", "text": "Retell the story at work like a war hero: \u201cYou should\u2019ve HEARD this ref\u2026\u201d \u2014 expecting validation.", "pts": 20 },
+        { "letter": "D", "text": "Already composing a formal league complaint email at 7 AM. Subject line: \u201cUrgent \u2014 Referee Incompetence.\u201d", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Self-Reflection Check</span> <strong>90% of referees say abuse has gotten worse</strong> in the past 5 years. If your Monday morning starts with a referee complaint email, consider this: would you behave the same way toward your kid\u2019s teacher? Their pediatrician? The person refereeing your kid\u2019s game deserves the same respect \u2014 and statistically, they might BE a kid themselves."
+    },
+    {
+      "id": 11,
+      "tag": "RAP Physical Level 1",
+      "title": "The Accidental Bump",
+      "scenario": "After a heated exchange on the field, you 'accidentally' bump shoulders with the ref while walking past. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Apologize immediately and give them space \u2014 accidents happen, but respect matters.", "pts": 0 },
+        { "letter": "B", "text": "Mutter 'watch where you're going' under your breath and keep walking.", "pts": 10 },
+        { "letter": "C", "text": "Stop and glare, saying 'That call was as bad as your positioning.'", "pts": 30 },
+        { "letter": "D", "text": "Turn it into a full shoulder check like you're defending Messi in the box.", "pts": 45 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 1 \u2014 Minor Contact</span> Any intentional minor physical contact, like bumping or brushing against a referee, is Level 1 physical abuse under RAP \u2014 <strong>minimum 4-game suspension</strong>. Even 'accidental' bumps can escalate quickly, and refs report this as a common intimidation tactic in youth games."
+    },
+    {
+      "id": 12,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Anonymous Emailer",
+      "scenario": "You're fuming about a game-losing call. You decide to email the league anonymously. Your message includes\u2026",
+      "options": [
+        { "letter": "A", "text": "Nothing \u2014 you cool off with a post-game beer and forget about it.", "pts": 0 },
+        { "letter": "B", "text": "A polite suggestion for ref training on that specific rule.", "pts": 5 },
+        { "letter": "C", "text": "Demands for the ref's removal, with colorful language about their incompetence.", "pts": 35 },
+        { "letter": "D", "text": "Veiled threats like 'Refs like that won't last long in this league.'", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 3 \u2014 Threats & Cyberbullying</span> Anonymous emails with threats or harassment are classified as Level 3 abuse \u2014 <strong>minimum 6-24 month suspension</strong>. RAP emphasizes that digital abuse has real-world impacts, like the 16,000 emails that forced a pro ref into hiding."
+    },
+    {
+      "id": 13,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Staring Contest",
+      "scenario": "The ref ignores your team's obvious foul appeal. From the sideline, you\u2026",
+      "options": [
+        { "letter": "A", "text": "Shrug it off and cheer for the next play \u2014 soccer's full of tough calls.", "pts": 0 },
+        { "letter": "B", "text": "Give a quick head shake and mutter to yourself about consistency.", "pts": 10 },
+        { "letter": "C", "text": "Lock eyes with the ref and stare intensely until they notice.", "pts": 25 },
+        { "letter": "D", "text": "Follow their every move with a death stare, like you're scouting for weaknesses.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 2 \u2014 Harassment/Intimidation</span> Prolonged staring or following a ref's movements to intimidate is Level 2 abuse \u2014 <strong>minimum 4-game suspension</strong>. Refs cite this body language as making them feel unsafe, contributing to the emotional toll that drives many out of the sport."
+    },
+    {
+      "id": 14,
+      "tag": "Youth Referee Awareness",
+      "title": "The Teen Ref Tantrum",
+      "scenario": "A young ref misses a handball in the box. You spot their braces and backpack. Your reaction\u2026",
+      "options": [
+        { "letter": "A", "text": "Remember they're learning too, and encourage your kid to play on.", "pts": 0 },
+        { "letter": "B", "text": "Whisper to another parent, 'Kid refs need more training, right?'", "pts": 5 },
+        { "letter": "C", "text": "Yell 'That's a handball! Even my dog knows that!' ignoring their age.", "pts": 25 },
+        { "letter": "D", "text": "Mock them loudly: 'Back to ref school for you, kiddo!'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Youth Referee Data</span> With <strong>72% of refs under 19</strong>, abusing a minor triples penalties under RAP. Many young refs quit after verbal attacks, worsening the ref shortage \u2014 next time, think: would you yell at a teen babysitter like that?"
+    },
+    {
+      "id": 15,
+      "tag": "RAP Physical Level 3",
+      "title": "The Post-Whistle Shove",
+      "scenario": "Game over, emotions high. The ref walks by, and in frustration, you\u2026",
+      "options": [
+        { "letter": "A", "text": "Congratulate the players and pack up \u2014 the result stands.", "pts": 0 },
+        { "letter": "B", "text": "Give a disapproving look but keep your distance.", "pts": 10 },
+        { "letter": "C", "text": "Step close and point aggressively while ranting about the calls.", "pts": 35 },
+        { "letter": "D", "text": "Shove or grab them to 'get their attention' for your feedback.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 3 \u2014 Assault</span> Any violent contact like shoving or grabbing is Level 3 physical abuse \u2014 <strong>minimum 12-month suspension or lifetime ban</strong>. Assault on officials can lead to criminal charges, as seen in cases where refs needed medical attention."
+    },
+    {
+      "id": 16,
+      "tag": "Behavioral Self-Assessment",
+      "title": "The Coach's Shadow",
+      "scenario": "As a parent-coach, how do you handle ref disputes during your kid's match?",
+      "options": [
+        { "letter": "A", "text": "Focus on coaching positives \u2014 refs are part of the game.", "pts": 0 },
+        { "letter": "B", "text": "Occasionally question calls quietly to your assistant.", "pts": 10 },
+        { "letter": "C", "text": "Argue every close call, turning the sideline into a debate club.", "pts": 25 },
+        { "letter": "D", "text": "Eject yourself mentally by storming around like Klopp on a bad day.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Coach Behavior Impact</span> Coaches who model abuse influence players and parents, per RAP guidelines. <strong>70% of ref abuse starts from the bench</strong>. If you're the 'shadow ref,' you're teaching kids that disrespect is part of the beautiful game."
+    },
+    {
+      "id": 17,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Handball Hysteria",
+      "scenario": "Clear handball not called. Your team concedes from it. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Accept it \u2014 even pros miss handballs without VAR.", "pts": 0 },
+        { "letter": "B", "text": "Groan and say to nearby parents, 'That was obvious.'", "pts": 5 },
+        { "letter": "C", "text": "Shout 'Handball! Are you blind, ref?!'", "pts": 20 },
+        { "letter": "D", "text": "Demonstrate the handball dramatically, yelling 'Like this! See?'", "pts": 30 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 1 \u2014 Verbal Taunting</span> Questioning a ref's vision or competence with shouts like 'Are you blind?' is classic Level 1 abuse \u2014 <strong>minimum 2-game suspension</strong>. Handball rules are complex; most parents misjudge them more than refs do."
+    },
+    {
+      "id": 18,
+      "tag": "Pattern Recognition",
+      "title": "The Repeat Offender",
+      "scenario": "You've been warned before for ref comments. Another bad call happens. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Bite your tongue \u2014 learned my lesson last time.", "pts": 0 },
+        { "letter": "B", "text": "Vent privately later, but stay cool on the field.", "pts": 5 },
+        { "letter": "C", "text": "Slip back into old habits with a quick yell.", "pts": 20 },
+        { "letter": "D", "text": "Double down: 'Same ref, same mistakes! When will they learn?'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Repeat Abuse Patterns</span> RAP escalates penalties for repeat offenders, up to lifetime bans. <strong>50% of abusive incidents involve prior offenders</strong>. If you're recognizing a pattern in yourself, it's time to break it before the league does."
+    },
+    {
+      "id": 19,
+      "tag": "RAP Physical Level 2",
+      "title": "The Field Invasion",
+      "scenario": "A dangerous foul on your kid goes uncalled. In the moment, you\u2026",
+      "options": [
+        { "letter": "A", "text": "Stay on the sideline and check on your kid after.", "pts": 0 },
+        { "letter": "B", "text": "Yell from afar but don't cross the line.", "pts": 10 },
+        { "letter": "C", "text": "Run onto the field to 'discuss' the no-call with the ref.", "pts": 35 },
+        { "letter": "D", "text": "Charge in like a bull, demanding a card for the opponent.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 2 \u2014 Confrontation</span> Entering the field to confront a ref is Level 2 physical abuse \u2014 <strong>minimum 10-game suspension</strong>. This invasion disrupts games and endangers everyone, often leading to match abandonment."
+    },
+    {
+      "id": 20,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Profanity Parade",
+      "scenario": "Back-to-back calls against your team. Your vocabulary turns\u2026",
+      "options": [
+        { "letter": "A", "text": "PG-rated \u2014 deep breaths and positive cheers only.", "pts": 0 },
+        { "letter": "B", "text": "Mildly colorful, but whispered to yourself.", "pts": 10 },
+        { "letter": "C", "text": "R-rated shouts that make nearby parents cringe.", "pts": 30 },
+        { "letter": "D", "text": "Full Tarantino script directed at the ref.", "pts": 45 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 2 \u2014 Harassment</span> Directing profanity at refs is Level 2 abuse \u2014 <strong>minimum 4-game suspension</strong>. In youth soccer, this sets a toxic example; studies show kids mimic adult language, turning fields into echo chambers of abuse."
+    },
+    {
+      "id": 21,
+      "tag": "Youth Referee Awareness",
+      "title": "The Brace-Faced Blunder",
+      "scenario": "A teen ref awards a questionable free kick. You notice their acne and earbuds. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Appreciate their effort and stay supportive.", "pts": 0 },
+        { "letter": "B", "text": "Think 'They're young,' but still sigh loudly.", "pts": 5 },
+        { "letter": "C", "text": "Yell 'That's not a foul! Study the rules, kid!'", "pts": 25 },
+        { "letter": "D", "text": "Taunt: 'Did you ref this from TikTok tutorials?'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Youth Referee Data</span> <strong>Over 60% of refs in some states are minors</strong>. Abusing them triples RAP penalties. Many teens ref for pocket money but quit due to adult harassment \u2014 your taunt could cancel next week's game."
+    },
+    {
+      "id": 22,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Doxxing Drama",
+      "scenario": "Upset after a loss, you search for the ref's info online. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Close the tab \u2014 not worth it.", "pts": 0 },
+        { "letter": "B", "text": "Vent in a private group chat instead.", "pts": 5 },
+        { "letter": "C", "text": "Post their name in a league forum with complaints.", "pts": 30 },
+        { "letter": "D", "text": "Share their personal details with threats attached.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 3 \u2014 Cyberbullying</span> Doxxing or sharing personal info with abusive intent is Level 3 \u2014 <strong>minimum 6-24 months</strong>. This can lead to real harm; refs have faced stalking and needed protection after online exposures."
+    },
+    {
+      "id": 23,
+      "tag": "Behavioral Self-Assessment",
+      "title": "The VAR Wannabe",
+      "scenario": "How often do you act like you have VAR replay from the stands?",
+      "options": [
+        { "letter": "A", "text": "Never \u2014 I trust the ref's view over my phone angle.", "pts": 0 },
+        { "letter": "B", "text": "Rarely, but I might check my recording later.", "pts": 10 },
+        { "letter": "C", "text": "Often, yelling 'Replay shows it's wrong!' mid-game.", "pts": 25 },
+        { "letter": "D", "text": "Always, with slow-mo demos for everyone around.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Tech-Fueled Abuse</span> Using phones to 'prove' calls fuels dissent, per RAP. <strong>Parents' rule knowledge gaps cause 70% of conflicts</strong>. If you're the VAR expert, remember: youth soccer refs don't have Hawk-Eye, just eyesight."
+    },
+    {
+      "id": 24,
+      "tag": "RAP Physical Level 1",
+      "title": "The Sideline Swipe",
+      "scenario": "Ref runs by the touchline, you extend your arm 'accidentally.' You\u2026",
+      "options": [
+        { "letter": "A", "text": "Pull back and apologize right away.", "pts": 0 },
+        { "letter": "B", "text": "Let it brush and pretend it didn't happen.", "pts": 10 },
+        { "letter": "C", "text": "Make contact while shouting about a call.", "pts": 30 },
+        { "letter": "D", "text": "Swipe like you're clearing a corner kick.", "pts": 45 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 1 \u2014 Minor Contact</span> Intentional brushing or swiping is Level 1 \u2014 <strong>minimum 4-game suspension</strong>. Refs report these 'accidents' as veiled threats, often escalating to more serious confrontations."
+    },
+    {
+      "id": 25,
+      "tag": "Pattern Recognition",
+      "title": "The League Legend",
+      "scenario": "Refs start avoiding your team's games. You think it's because\u2026",
+      "options": [
+        { "letter": "A", "text": "Coincidence \u2014 I always respect them.", "pts": 0 },
+        { "letter": "B", "text": "Maybe my passion gets misinterpreted sometimes.", "pts": 5 },
+        { "letter": "C", "text": "They're soft; can't handle honest feedback.", "pts": 20 },
+        { "letter": "D", "text": "Good \u2014 weeds out the weak ones from my 'list.'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Abuse Patterns</span> Refs blacklisting teams due to abuse is common, leading to cancellations. <strong>80% quit early from patterns like yours</strong>. If you're a 'legend' for the wrong reasons, your kid's league might soon be ref-less."
+    },
+    {
+      "id": 26,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Dive Denial",
+      "scenario": "Opponent dives, ref buys it. Your take\u2026",
+      "options": [
+        { "letter": "A", "text": "Tough luck \u2014 dives happen in soccer.", "pts": 0 },
+        { "letter": "B", "text": "Mutter 'That's a dive' to your group.", "pts": 5 },
+        { "letter": "C", "text": "Yell 'No dive there, ref? Wake up!'", "pts": 15 },
+        { "letter": "D", "text": "Accuse: 'Ref, you're encouraging cheaters!'", "pts": 30 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 1 \u2014 Verbal Taunting</span> Accusing refs of bias or incompetence over dives is Level 1 \u2014 <strong>minimum 2-game suspension</strong>. Dives are hard to spot in real-time; your sideline view isn't as clear as you think."
+    },
+    {
+      "id": 27,
+      "tag": "RAP Physical Level 3",
+      "title": "The Trophy Tantrum",
+      "scenario": "Championship loss on a disputed goal. Post-game, you\u2026",
+      "options": [
+        { "letter": "A", "text": "Congratulate winners and refs alike.", "pts": 0 },
+        { "letter": "B", "text": "Grumble but stay away from officials.", "pts": 10 },
+        { "letter": "C", "text": "Approach aggressively, demanding explanations.", "pts": 35 },
+        { "letter": "D", "text": "Throw hands or objects in ref's direction.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 3 \u2014 Assault</span> Throwing objects or striking is assault \u2014 <strong>lifetime ban possible</strong>. High-stakes games see spikes in violence; RAP aims to protect refs from turning trophies into tantrums."
+    },
+    {
+      "id": 28,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Whistle Blower",
+      "scenario": "Ref's whistle seems biased. You mimic it by\u2026",
+      "options": [
+        { "letter": "A", "text": "Not at all \u2014 focus on the game.", "pts": 0 },
+        { "letter": "B", "text": "Blowing your own imaginary one quietly.", "pts": 10 },
+        { "letter": "C", "text": "Yelling and gesturing every 'missed' call.", "pts": 25 },
+        { "letter": "D", "text": "Bring a real whistle and blow it mockingly.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 2 \u2014 Intimidation</span> Mocking a ref's authority with gestures or props is Level 2 \u2014 <strong>minimum 4-game suspension</strong>. This undermines the game and often incites crowds, per RAP reports."
+    },
+    {
+      "id": 29,
+      "tag": "Youth Referee Awareness",
+      "title": "The Homework Helper",
+      "scenario": "Young ref struggles with a substitution rule. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Let them figure it out \u2014 learning curve.", "pts": 0 },
+        { "letter": "B", "text": "Think 'They need help,' but stay silent.", "pts": 5 },
+        { "letter": "C", "text": "Shout rule corrections from afar.", "pts": 20 },
+        { "letter": "D", "text": "Yell: 'Do your homework next time, ref!'", "pts": 30 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Youth Referee Data</span> Minors make up most refs and face triple penalties for abuse. <strong>Many quit after rule-based taunts</strong>. Remember, that 'homework' might be balanced with actual schoolwork."
+    },
+    {
+      "id": 30,
+      "tag": "Behavioral Self-Assessment",
+      "title": "The Fanboy Flop",
+      "scenario": "Your idol player flops in a pro game. In youth soccer, you\u2026",
+      "options": [
+        { "letter": "A", "text": "Teach fair play over winning at all costs.", "pts": 0 },
+        { "letter": "B", "text": "Admire it but don't encourage kids.", "pts": 10 },
+        { "letter": "C", "text": "Blame refs when your kid gets called for it.", "pts": 25 },
+        { "letter": "D", "text": "Coach flops and yell at refs who spot them.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Modeling Behavior</span> Encouraging dives leads to ref abuse when called out. <strong>Coaches influence 60% of player attitudes</strong>. If you're a fanboy of flops, you're flop-ping as a role model under RAP."
+    },
+    {
+      "id": 31,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Forum Fury",
+      "scenario": "League forum discusses a ref's performance. You chime in with\u2026",
+      "options": [
+        { "letter": "A", "text": "Constructive feedback on training needs.", "pts": 0 },
+        { "letter": "B", "text": "Mild criticism of specific calls.", "pts": 5 },
+        { "letter": "C", "text": "Personal attacks on their character.", "pts": 30 },
+        { "letter": "D", "text": "Threats to 'expose' them publicly.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 3 \u2014 Cyberbullying</span> Forum threats or personal attacks are Level 3 \u2014 <strong>6-24 month bans</strong>. Online fury has offline consequences, like refs quitting en masse from digital harassment."
+    },
+    {
+      "id": 32,
+      "tag": "Pattern Recognition",
+      "title": "The Escalation Expert",
+      "scenario": "A minor call disagreement. How does it end for you?",
+      "options": [
+        { "letter": "A", "text": "Quickly forgotten \u2014 onto the next play.", "pts": 0 },
+        { "letter": "B", "text": "A brief vent, then calm.", "pts": 5 },
+        { "letter": "C", "text": "Builds to a full argument.", "pts": 20 },
+        { "letter": "D", "text": "Escalates to threats or contact.", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Escalation Patterns</span> RAP notes that 40% of incidents start small but escalate. <strong>Recognize your triggers to avoid bans</strong>. If you're the expert at escalation, your next level might be out of the league."
+    },
+    {
+      "id": 33,
+      "tag": "RAP Physical Level 2",
+      "title": "The Bench Blocker",
+      "scenario": "Ref approaches the bench for a chat. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Listen respectfully and respond calmly.", "pts": 0 },
+        { "letter": "B", "text": "Stand but keep distance.", "pts": 10 },
+        { "letter": "C", "text": "Block their path with aggressive posture.", "pts": 35 },
+        { "letter": "D", "text": "Crowd them with the team for 'support.'", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 2 \u2014 Confrontation</span> Blocking or crowding refs is Level 2 \u2014 <strong>minimum 10-games</strong>. This group intimidation is a red flag in RAP, often leading to game forfeits."
+    },
+    {
+      "id": 34,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Corner Kick Critique",
+      "scenario": "Ref awards a corner you think was a goal kick. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Accept and prepare for defense.", "pts": 0 },
+        { "letter": "B", "text": "Murmur 'That's a goal kick' softly.", "pts": 5 },
+        { "letter": "C", "text": "Shout 'Wrong! It's our ball, ref!'", "pts": 15 },
+        { "letter": "D", "text": "Ridicule: 'Learn the lines, stripey!'", "pts": 30 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 1 \u2014 Verbal Taunting</span> Ridiculing basic calls like corners is Level 1 \u2014 <strong>2-game minimum</strong>. Angle judgments are tough; your critique might miss the mark more than the ref."
+    },
+    {
+      "id": 35,
+      "tag": "Youth Referee Awareness",
+      "title": "The Prom Night Pressure",
+      "scenario": "Teen ref blows a call before their big dance. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Empathize \u2014 pressure's on everyone.", "pts": 0 },
+        { "letter": "B", "text": "Note their youth, tone down reaction.", "pts": 5 },
+        { "letter": "C", "text": "Yell anyway \u2014 game is game.", "pts": 25 },
+        { "letter": "D", "text": "Mock: 'Focus on soccer, not your date!'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Youth Referee Data</span> Teens ref amid school and life stress; abuse triples penalties. <strong>High dropout from personal taunts</strong>. Your prom jab could end their whistling career before it starts."
+    },
+    {
+      "id": 36,
+      "tag": "RAP Physical Level 1",
+      "title": "The Flag Flap",
+      "scenario": "Assistant ref flags offside. You disagree and\u2026",
+      "options": [
+        { "letter": "A", "text": "Respect the flag and move on.", "pts": 0 },
+        { "letter": "B", "text": "Shake head but stay put.", "pts": 10 },
+        { "letter": "C", "text": "Approach and wave arms in protest.", "pts": 30 },
+        { "letter": "D", "text": "Slap the flag down in frustration.", "pts": 45 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 1 \u2014 Minor Contact</span> Touching equipment or officials lightly in anger is Level 1 \u2014 <strong>4-game suspension</strong>. Flags aren't for flapping; abuse of assistants is rising, per RAP."
+    },
+    {
+      "id": 37,
+      "tag": "Behavioral Self-Assessment",
+      "title": "The World Cup Warrior",
+      "scenario": "You treat youth games like the World Cup final. Your intensity\u2026",
+      "options": [
+        { "letter": "A", "text": "Is fun-focused, not win-at-all-costs.", "pts": 0 },
+        { "letter": "B", "text": "Gets high, but I control it.", "pts": 10 },
+        { "letter": "C", "text": "Leads to ref arguments often.", "pts": 25 },
+        { "letter": "D", "text": "Makes me the sideline star, refs beware.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Intensity Mismatch</span> Treating kids' games like pros fuels abuse. <strong>90% of refs report worse behavior post-pandemic</strong>. If you're a warrior, remember: it's not Qatar, it's your local park."
+    },
+    {
+      "id": 38,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Chant Starter",
+      "scenario": "Bad calls pile up. You rally the crowd by\u2026",
+      "options": [
+        { "letter": "A", "text": "Cheering your team positively.", "pts": 0 },
+        { "letter": "B", "text": "Grumbling in your section.", "pts": 10 },
+        { "letter": "C", "text": "Starting anti-ref chants.", "pts": 30 },
+        { "letter": "D", "text": "Leading a full stadium-style roast.", "pts": 45 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 2 \u2014 Harassment</span> Inciting crowds against refs is Level 2 \u2014 <strong>4-game minimum</strong>. Group harassment amplifies the emotional toll, often causing refs to abandon matches."
+    },
+    {
+      "id": 39,
+      "tag": "Pattern Recognition",
+      "title": "The Ban Build-Up",
+      "scenario": "After multiple warnings, another outburst. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Self-reflect and change habits.", "pts": 0 },
+        { "letter": "B", "text": "Tone it down for a bit.", "pts": 5 },
+        { "letter": "C", "text": "Ignore and continue as usual.", "pts": 20 },
+        { "letter": "D", "text": "Escalate: 'They can't ban passion!'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Cumulative Abuse</span> RAP stacks penalties for patterns, leading to long bans. <strong>Repeaters cause 50% of shortages</strong>. If bans are building, your 'passion' might bench you permanently."
+    },
+    {
+      "id": 40,
+      "tag": "RAP Physical Level 3",
+      "title": "The Final Fury",
+      "scenario": "Season finale, bad call seals defeat. Your exit strategy\u2026",
+      "options": [
+        { "letter": "A", "text": "Shake hands and reflect positively.", "pts": 0 },
+        { "letter": "B", "text": "Vent in the car ride home.", "pts": 10 },
+        { "letter": "C", "text": "Confront ref verbally post-game.", "pts": 35 },
+        { "letter": "D", "text": "Physically assault in the heat of loss.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 3 \u2014 Assault</span> Post-game assaults warrant <strong>lifetime bans and legal action</strong>. End-of-season stress spikes incidents; RAP protects refs so games can continue safely."
+    },
+    {
+      "id": 41,
+      "tag": "RAP Physical Level 1",
+      "title": "The Accidental Bump",
+      "scenario": "After a heated exchange on the field, you 'accidentally' bump shoulders with the ref while walking past. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Apologize immediately and give them space \u2014 accidents happen, but respect matters.", "pts": 0 },
+        { "letter": "B", "text": "Mutter 'watch where you're going' under your breath and keep walking.", "pts": 10 },
+        { "letter": "C", "text": "Stop and glare, saying 'That call was as bad as your positioning.'", "pts": 30 },
+        { "letter": "D", "text": "Turn it into a full shoulder check like you're defending Messi in the box.", "pts": 45 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 1 \u2014 Minor Contact</span> Any intentional minor physical contact, like bumping or brushing against a referee, is Level 1 physical abuse under RAP \u2014 <strong>minimum 4-game suspension</strong>. Even 'accidental' bumps can escalate quickly, and refs report this as a common intimidation tactic in youth games."
+    },
+    {
+      "id": 42,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Anonymous Emailer",
+      "scenario": "You're fuming about a game-losing call. You decide to email the league anonymously. Your message includes\u2026",
+      "options": [
+        { "letter": "A", "text": "Nothing \u2014 you cool off with a post-game beer and forget about it.", "pts": 0 },
+        { "letter": "B", "text": "A polite suggestion for ref training on that specific rule.", "pts": 5 },
+        { "letter": "C", "text": "Demands for the ref's removal, with colorful language about their incompetence.", "pts": 35 },
+        { "letter": "D", "text": "Veiled threats like 'Refs like that won't last long in this league.'", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 3 \u2014 Threats & Cyberbullying</span> Anonymous emails with threats or harassment are classified as Level 3 abuse \u2014 <strong>minimum 6-24 month suspension</strong>. RAP emphasizes that digital abuse has real-world impacts, like the 16,000 emails that forced a pro ref into hiding."
+    },
+    {
+      "id": 43,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Staring Contest",
+      "scenario": "The ref ignores your team's obvious foul appeal. From the sideline, you\u2026",
+      "options": [
+        { "letter": "A", "text": "Shrug it off and cheer for the next play \u2014 soccer's full of tough calls.", "pts": 0 },
+        { "letter": "B", "text": "Give a quick head shake and mutter to yourself about consistency.", "pts": 10 },
+        { "letter": "C", "text": "Lock eyes with the ref and stare intensely until they notice.", "pts": 25 },
+        { "letter": "D", "text": "Follow their every move with a death stare, like you're scouting for weaknesses.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 2 \u2014 Harassment/Intimidation</span> Prolonged staring or following a ref's movements to intimidate is Level 2 abuse \u2014 <strong>minimum 4-game suspension</strong>. Refs cite this body language as making them feel unsafe, contributing to the emotional toll that drives many out of the sport."
+    },
+    {
+      "id": 44,
+      "tag": "Youth Referee Awareness",
+      "title": "The Teen Ref Tantrum",
+      "scenario": "A young ref misses a handball in the box. You spot their braces and backpack. Your reaction\u2026",
+      "options": [
+        { "letter": "A", "text": "Remember they're learning too, and encourage your kid to play on.", "pts": 0 },
+        { "letter": "B", "text": "Whisper to another parent, 'Kid refs need more training, right?'", "pts": 5 },
+        { "letter": "C", "text": "Yell 'That's a handball! Even my dog knows that!' ignoring their age.", "pts": 25 },
+        { "letter": "D", "text": "Mock them loudly: 'Back to ref school for you, kiddo!'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Youth Referee Data</span> With <strong>72% of refs under 19</strong>, abusing a minor triples penalties under RAP. Many young refs quit after verbal attacks, worsening the ref shortage \u2014 next time, think: would you yell at a teen babysitter like that?"
+    },
+    {
+      "id": 45,
+      "tag": "RAP Physical Level 3",
+      "title": "The Post-Whistle Shove",
+      "scenario": "Game over, emotions high. The ref walks by, and in frustration, you\u2026",
+      "options": [
+        { "letter": "A", "text": "Congratulate the players and pack up \u2014 the result stands.", "pts": 0 },
+        { "letter": "B", "text": "Give a disapproving look but keep your distance.", "pts": 10 },
+        { "letter": "C", "text": "Step close and point aggressively while ranting about the calls.", "pts": 35 },
+        { "letter": "D", "text": "Shove or grab them to 'get their attention' for your feedback.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 3 \u2014 Assault</span> Any violent contact like shoving or grabbing is Level 3 physical abuse \u2014 <strong>minimum 12-month suspension or lifetime ban</strong>. Assault on officials can lead to criminal charges, as seen in cases where refs needed medical attention."
+    },
+    {
+      "id": 46,
+      "tag": "Behavioral Self-Assessment",
+      "title": "The Coach's Shadow",
+      "scenario": "As a parent-coach, how do you handle ref disputes during your kid's match?",
+      "options": [
+        { "letter": "A", "text": "Focus on coaching positives \u2014 refs are part of the game.", "pts": 0 },
+        { "letter": "B", "text": "Occasionally question calls quietly to your assistant.", "pts": 10 },
+        { "letter": "C", "text": "Argue every close call, turning the sideline into a debate club.", "pts": 25 },
+        { "letter": "D", "text": "Eject yourself mentally by storming around like Klopp on a bad day.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Coach Behavior Impact</span> Coaches who model abuse influence players and parents, per RAP guidelines. <strong>70% of ref abuse starts from the bench</strong>. If you're the 'shadow ref,' you're teaching kids that disrespect is part of the beautiful game."
+    },
+    {
+      "id": 47,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Handball Hysteria",
+      "scenario": "Clear handball not called. Your team concedes from it. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Accept it \u2014 even pros miss handballs without VAR.", "pts": 0 },
+        { "letter": "B", "text": "Groan and say to nearby parents, 'That was obvious.'", "pts": 5 },
+        { "letter": "C", "text": "Shout 'Handball! Are you blind, ref?!'", "pts": 20 },
+        { "letter": "D", "text": "Demonstrate the handball dramatically, yelling 'Like this! See?'", "pts": 30 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 1 \u2014 Verbal Taunting</span> Questioning a ref's vision or competence with shouts like 'Are you blind?' is classic Level 1 abuse \u2014 <strong>minimum 2-game suspension</strong>. Handball rules are complex; most parents misjudge them more than refs do."
+    },
+    {
+      "id": 48,
+      "tag": "Pattern Recognition",
+      "title": "The Repeat Offender",
+      "scenario": "You've been warned before for ref comments. Another bad call happens. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Bite your tongue \u2014 learned my lesson last time.", "pts": 0 },
+        { "letter": "B", "text": "Vent privately later, but stay cool on the field.", "pts": 5 },
+        { "letter": "C", "text": "Slip back into old habits with a quick yell.", "pts": 20 },
+        { "letter": "D", "text": "Double down: 'Same ref, same mistakes! When will they learn?'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Repeat Abuse Patterns</span> RAP escalates penalties for repeat offenders, up to lifetime bans. <strong>50% of abusive incidents involve prior offenders</strong>. If you're recognizing a pattern in yourself, it's time to break it before the league does."
+    },
+    {
+      "id": 49,
+      "tag": "RAP Physical Level 2",
+      "title": "The Field Invasion",
+      "scenario": "A dangerous foul on your kid goes uncalled. In the moment, you\u2026",
+      "options": [
+        { "letter": "A", "text": "Stay on the sideline and check on your kid after.", "pts": 0 },
+        { "letter": "B", "text": "Yell from afar but don't cross the line.", "pts": 10 },
+        { "letter": "C", "text": "Run onto the field to 'discuss' the no-call with the ref.", "pts": 35 },
+        { "letter": "D", "text": "Charge in like a bull, demanding a card for the opponent.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 2 \u2014 Confrontation</span> Entering the field to confront a ref is Level 2 physical abuse \u2014 <strong>minimum 10-game suspension</strong>. This invasion disrupts games and endangers everyone, often leading to match abandonment."
+    },
+    {
+      "id": 50,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Profanity Parade",
+      "scenario": "Back-to-back calls against your team. Your vocabulary turns\u2026",
+      "options": [
+        { "letter": "A", "text": "PG-rated \u2014 deep breaths and positive cheers only.", "pts": 0 },
+        { "letter": "B", "text": "Mildly colorful, but whispered to yourself.", "pts": 10 },
+        { "letter": "C", "text": "R-rated shouts that make nearby parents cringe.", "pts": 30 },
+        { "letter": "D", "text": "Full Tarantino script directed at the ref.", "pts": 45 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 2 \u2014 Harassment</span> Directing profanity at refs is Level 2 abuse \u2014 <strong>minimum 4-game suspension</strong>. In youth soccer, this sets a toxic example; studies show kids mimic adult language, turning fields into echo chambers of abuse."
+    },
+    {
+      "id": 51,
+      "tag": "Youth Referee Awareness",
+      "title": "The Brace-Faced Blunder",
+      "scenario": "A teen ref awards a questionable free kick. You notice their acne and earbuds. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Appreciate their effort and stay supportive.", "pts": 0 },
+        { "letter": "B", "text": "Think 'They're young,' but still sigh loudly.", "pts": 5 },
+        { "letter": "C", "text": "Yell 'That's not a foul! Study the rules, kid!'", "pts": 25 },
+        { "letter": "D", "text": "Taunt: 'Did you ref this from TikTok tutorials?'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Youth Referee Data</span> <strong>Over 60% of refs in some states are minors</strong>. Abusing them triples RAP penalties. Many teens ref for pocket money but quit due to adult harassment \u2014 your taunt could cancel next week's game."
+    },
+    {
+      "id": 52,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Doxxing Drama",
+      "scenario": "Upset after a loss, you search for the ref's info online. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Close the tab \u2014 not worth it.", "pts": 0 },
+        { "letter": "B", "text": "Vent in a private group chat instead.", "pts": 5 },
+        { "letter": "C", "text": "Post their name in a league forum with complaints.", "pts": 30 },
+        { "letter": "D", "text": "Share their personal details with threats attached.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 3 \u2014 Cyberbullying</span> Doxxing or sharing personal info with abusive intent is Level 3 \u2014 <strong>minimum 6-24 months</strong>. This can lead to real harm; refs have faced stalking and needed protection after online exposures."
+    },
+    {
+      "id": 53,
+      "tag": "Behavioral Self-Assessment",
+      "title": "The VAR Wannabe",
+      "scenario": "How often do you act like you have VAR replay from the stands?",
+      "options": [
+        { "letter": "A", "text": "Never \u2014 I trust the ref's view over my phone angle.", "pts": 0 },
+        { "letter": "B", "text": "Rarely, but I might check my recording later.", "pts": 10 },
+        { "letter": "C", "text": "Often, yelling 'Replay shows it's wrong!' mid-game.", "pts": 25 },
+        { "letter": "D", "text": "Always, with slow-mo demos for everyone around.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Tech-Fueled Abuse</span> Using phones to 'prove' calls fuels dissent, per RAP. <strong>Parents' rule knowledge gaps cause 70% of conflicts</strong>. If you're the VAR expert, remember: youth soccer refs don't have Hawk-Eye, just eyesight."
+    },
+    {
+      "id": 54,
+      "tag": "RAP Physical Level 1",
+      "title": "The Sideline Swipe",
+      "scenario": "Ref runs by the touchline, you extend your arm 'accidentally.' You\u2026",
+      "options": [
+        { "letter": "A", "text": "Pull back and apologize right away.", "pts": 0 },
+        { "letter": "B", "text": "Let it brush and pretend it didn't happen.", "pts": 10 },
+        { "letter": "C", "text": "Make contact while shouting about a call.", "pts": 30 },
+        { "letter": "D", "text": "Swipe like you're clearing a corner kick.", "pts": 45 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 1 \u2014 Minor Contact</span> Intentional brushing or swiping is Level 1 \u2014 <strong>minimum 4-game suspension</strong>. Refs report these 'accidents' as veiled threats, often escalating to more serious confrontations."
+    },
+    {
+      "id": 55,
+      "tag": "Pattern Recognition",
+      "title": "The League Legend",
+      "scenario": "Refs start avoiding your team's games. You think it's because\u2026",
+      "options": [
+        { "letter": "A", "text": "Coincidence \u2014 I always respect them.", "pts": 0 },
+        { "letter": "B", "text": "Maybe my passion gets misinterpreted sometimes.", "pts": 5 },
+        { "letter": "C", "text": "They're soft; can't handle honest feedback.", "pts": 20 },
+        { "letter": "D", "text": "Good \u2014 weeds out the weak ones from my 'list.'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Abuse Patterns</span> Refs blacklisting teams due to abuse is common, leading to cancellations. <strong>80% quit early from patterns like yours</strong>. If you're a 'legend' for the wrong reasons, your kid's league might soon be ref-less."
+    },
+    {
+      "id": 56,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Dive Denial",
+      "scenario": "Opponent dives, ref buys it. Your take\u2026",
+      "options": [
+        { "letter": "A", "text": "Tough luck \u2014 dives happen in soccer.", "pts": 0 },
+        { "letter": "B", "text": "Mutter 'That's a dive' to your group.", "pts": 5 },
+        { "letter": "C", "text": "Yell 'No dive there, ref? Wake up!'", "pts": 15 },
+        { "letter": "D", "text": "Accuse: 'Ref, you're encouraging cheaters!'", "pts": 30 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 1 \u2014 Verbal Taunting</span> Accusing refs of bias or incompetence over dives is Level 1 \u2014 <strong>minimum 2-game suspension</strong>. Dives are hard to spot in real-time; your sideline view isn't as clear as you think."
+    },
+    {
+      "id": 57,
+      "tag": "RAP Physical Level 3",
+      "title": "The Trophy Tantrum",
+      "scenario": "Championship loss on a disputed goal. Post-game, you\u2026",
+      "options": [
+        { "letter": "A", "text": "Congratulate winners and refs alike.", "pts": 0 },
+        { "letter": "B", "text": "Grumble but stay away from officials.", "pts": 10 },
+        { "letter": "C", "text": "Approach aggressively, demanding explanations.", "pts": 35 },
+        { "letter": "D", "text": "Throw hands or objects in ref's direction.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 3 \u2014 Assault</span> Throwing objects or striking is assault \u2014 <strong>lifetime ban possible</strong>. High-stakes games see spikes in violence; RAP aims to protect refs from turning trophies into tantrums."
+    },
+    {
+      "id": 58,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Whistle Blower",
+      "scenario": "Ref's whistle seems biased. You mimic it by\u2026",
+      "options": [
+        { "letter": "A", "text": "Not at all \u2014 focus on the game.", "pts": 0 },
+        { "letter": "B", "text": "Blowing your own imaginary one quietly.", "pts": 10 },
+        { "letter": "C", "text": "Yelling and gesturing every 'missed' call.", "pts": 25 },
+        { "letter": "D", "text": "Bring a real whistle and blow it mockingly.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 2 \u2014 Intimidation</span> Mocking a ref's authority with gestures or props is Level 2 \u2014 <strong>minimum 4-game suspension</strong>. This undermines the game and often incites crowds, per RAP reports."
+    },
+    {
+      "id": 59,
+      "tag": "Youth Referee Awareness",
+      "title": "The Homework Helper",
+      "scenario": "Young ref struggles with a substitution rule. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Let them figure it out \u2014 learning curve.", "pts": 0 },
+        { "letter": "B", "text": "Think 'They need help,' but stay silent.", "pts": 5 },
+        { "letter": "C", "text": "Shout rule corrections from afar.", "pts": 20 },
+        { "letter": "D", "text": "Yell: 'Do your homework next time, ref!'", "pts": 30 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Youth Referee Data</span> Minors make up most refs and face triple penalties for abuse. <strong>Many quit after rule-based taunts</strong>. Remember, that 'homework' might be balanced with actual schoolwork."
+    },
+    {
+      "id": 60,
+      "tag": "Behavioral Self-Assessment",
+      "title": "The Fanboy Flop",
+      "scenario": "Your idol player flops in a pro game. In youth soccer, you\u2026",
+      "options": [
+        { "letter": "A", "text": "Teach fair play over winning at all costs.", "pts": 0 },
+        { "letter": "B", "text": "Admire it but don't encourage kids.", "pts": 10 },
+        { "letter": "C", "text": "Blame refs when your kid gets called for it.", "pts": 25 },
+        { "letter": "D", "text": "Coach flops and yell at refs who spot them.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Modeling Behavior</span> Encouraging dives leads to ref abuse when called out. <strong>Coaches influence 60% of player attitudes</strong>. If you're a fanboy of flops, you're flop-ping as a role model under RAP."
+    },
+    {
+      "id": 61,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Forum Fury",
+      "scenario": "League forum discusses a ref's performance. You chime in with\u2026",
+      "options": [
+        { "letter": "A", "text": "Constructive feedback on training needs.", "pts": 0 },
+        { "letter": "B", "text": "Mild criticism of specific calls.", "pts": 5 },
+        { "letter": "C", "text": "Personal attacks on their character.", "pts": 30 },
+        { "letter": "D", "text": "Threats to 'expose' them publicly.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 3 \u2014 Cyberbullying</span> Forum threats or personal attacks are Level 3 \u2014 <strong>6-24 month bans</strong>. Online fury has offline consequences, like refs quitting en masse from digital harassment."
+    },
+    {
+      "id": 62,
+      "tag": "Pattern Recognition",
+      "title": "The Escalation Expert",
+      "scenario": "A minor call disagreement. How does it end for you?",
+      "options": [
+        { "letter": "A", "text": "Quickly forgotten \u2014 onto the next play.", "pts": 0 },
+        { "letter": "B", "text": "A brief vent, then calm.", "pts": 5 },
+        { "letter": "C", "text": "Builds to a full argument.", "pts": 20 },
+        { "letter": "D", "text": "Escalates to threats or contact.", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Escalation Patterns</span> RAP notes that 40% of incidents start small but escalate. <strong>Recognize your triggers to avoid bans</strong>. If you're the expert at escalation, your next level might be out of the league."
+    },
+    {
+      "id": 63,
+      "tag": "RAP Physical Level 2",
+      "title": "The Bench Blocker",
+      "scenario": "Ref approaches the bench for a chat. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Listen respectfully and respond calmly.", "pts": 0 },
+        { "letter": "B", "text": "Stand but keep distance.", "pts": 10 },
+        { "letter": "C", "text": "Block their path with aggressive posture.", "pts": 35 },
+        { "letter": "D", "text": "Crowd them with the team for 'support.'", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 2 \u2014 Confrontation</span> Blocking or crowding refs is Level 2 \u2014 <strong>minimum 10-games</strong>. This group intimidation is a red flag in RAP, often leading to game forfeits."
+    },
+    {
+      "id": 64,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Corner Kick Critique",
+      "scenario": "Ref awards a corner you think was a goal kick. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Accept and prepare for defense.", "pts": 0 },
+        { "letter": "B", "text": "Murmur 'That's a goal kick' softly.", "pts": 5 },
+        { "letter": "C", "text": "Shout 'Wrong! It's our ball, ref!'", "pts": 15 },
+        { "letter": "D", "text": "Ridicule: 'Learn the lines, stripey!'", "pts": 30 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 1 \u2014 Verbal Taunting</span> Ridiculing basic calls like corners is Level 1 \u2014 <strong>2-game minimum</strong>. Angle judgments are tough; your critique might miss the mark more than the ref."
+    },
+    {
+      "id": 65,
+      "tag": "Youth Referee Awareness",
+      "title": "The Prom Night Pressure",
+      "scenario": "Teen ref blows a call before their big dance. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Empathize \u2014 pressure's on everyone.", "pts": 0 },
+        { "letter": "B", "text": "Note their youth, tone down reaction.", "pts": 5 },
+        { "letter": "C", "text": "Yell anyway \u2014 game is game.", "pts": 25 },
+        { "letter": "D", "text": "Mock: 'Focus on soccer, not your date!'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Youth Referee Data</span> Teens ref amid school and life stress; abuse triples penalties. <strong>High dropout from personal taunts</strong>. Your prom jab could end their whistling career before it starts."
+    },
+    {
+      "id": 66,
+      "tag": "RAP Physical Level 1",
+      "title": "The Flag Flap",
+      "scenario": "Assistant ref flags offside. You disagree and\u2026",
+      "options": [
+        { "letter": "A", "text": "Respect the flag and move on.", "pts": 0 },
+        { "letter": "B", "text": "Shake head but stay put.", "pts": 10 },
+        { "letter": "C", "text": "Approach and wave arms in protest.", "pts": 30 },
+        { "letter": "D", "text": "Slap the flag down in frustration.", "pts": 45 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 1 \u2014 Minor Contact</span> Touching equipment or officials lightly in anger is Level 1 \u2014 <strong>4-game suspension</strong>. Flags aren't for flapping; abuse of assistants is rising, per RAP."
+    },
+    {
+      "id": 67,
+      "tag": "Behavioral Self-Assessment",
+      "title": "The World Cup Warrior",
+      "scenario": "You treat youth games like the World Cup final. Your intensity\u2026",
+      "options": [
+        { "letter": "A", "text": "Is fun-focused, not win-at-all-costs.", "pts": 0 },
+        { "letter": "B", "text": "Gets high, but I control it.", "pts": 10 },
+        { "letter": "C", "text": "Leads to ref arguments often.", "pts": 25 },
+        { "letter": "D", "text": "Makes me the sideline star, refs beware.", "pts": 40 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Intensity Mismatch</span> Treating kids' games like pros fuels abuse. <strong>90% of refs report worse behavior post-pandemic</strong>. If you're a warrior, remember: it's not Qatar, it's your local park."
+    },
+    {
+      "id": 68,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Chant Starter",
+      "scenario": "Bad calls pile up. You rally the crowd by\u2026",
+      "options": [
+        { "letter": "A", "text": "Cheering your team positively.", "pts": 0 },
+        { "letter": "B", "text": "Grumbling in your section.", "pts": 10 },
+        { "letter": "C", "text": "Starting anti-ref chants.", "pts": 30 },
+        { "letter": "D", "text": "Leading a full stadium-style roast.", "pts": 45 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Level 2 \u2014 Harassment</span> Inciting crowds against refs is Level 2 \u2014 <strong>4-game minimum</strong>. Group harassment amplifies the emotional toll, often causing refs to abandon matches."
+    },
+    {
+      "id": 69,
+      "tag": "Pattern Recognition",
+      "title": "The Ban Build-Up",
+      "scenario": "After multiple warnings, another outburst. You\u2026",
+      "options": [
+        { "letter": "A", "text": "Self-reflect and change habits.", "pts": 0 },
+        { "letter": "B", "text": "Tone it down for a bit.", "pts": 5 },
+        { "letter": "C", "text": "Ignore and continue as usual.", "pts": 20 },
+        { "letter": "D", "text": "Escalate: 'They can't ban passion!'", "pts": 35 }
+      ],
+      "reveal": "<span class=\"rap-tag\">Cumulative Abuse</span> RAP stacks penalties for patterns, leading to long bans. <strong>Repeaters cause 50% of shortages</strong>. If bans are building, your 'passion' might bench you permanently."
+    },
+    {
+      "id": 70,
+      "tag": "RAP Physical Level 3",
+      "title": "The Final Fury (Redux)",
+      "scenario": "Season finale, bad call seals defeat. Your exit strategy\u2026",
+      "options": [
+        { "letter": "A", "text": "Shake hands and reflect positively.", "pts": 0 },
+        { "letter": "B", "text": "Vent in the car ride home.", "pts": 10 },
+        { "letter": "C", "text": "Confront ref verbally post-game.", "pts": 35 },
+        { "letter": "D", "text": "Physically assault in the heat of loss.", "pts": 50 }
+      ],
+      "reveal": "<span class=\"rap-tag\">RAP Physical Level 3 \u2014 Assault</span> Post-game assaults warrant <strong>lifetime bans and legal action</strong>. End-of-season stress spikes incidents; RAP protects refs so games can continue safely."
+    }
+  ],
+  "tiers": [
+    { "max": 10,  "color": "#2DC653", "title": "\ud83d\udfe2 The Referee's Dream",    "desc": "You\u2019re the rarest species in youth soccer: a supportive, respectful sideline presence. Referees don\u2019t know your name \u2014 and that\u2019s the highest compliment. Keep being the example everyone else needs." },
+    { "max": 25,  "color": "#7EC850", "title": "\ud83d\udfe1 Mostly Harmless",          "desc": "You have your moments \u2014 an eye-roll here, a dramatic sigh there \u2014 but you catch yourself before crossing the line. The ref might notice you, but they\u2019re not worried about you. Room for improvement, but you\u2019re not the problem." },
+    { "max": 45,  "color": "#FFD700", "title": "\ud83d\udfe1 Yellow Card Territory",    "desc": "You\u2019re edging into dissent. Your sideline behavior is noticeable and occasionally disruptive. The ref is aware of your presence \u2014 and not in a good way. Under the RAP policy, some of your habits would trigger formal warnings. Time to recalibrate." },
+    { "max": 65,  "color": "#FF8C00", "title": "\ud83d\udfe0 Red Card Energy",           "desc": "You\u2019re in official abuse territory under U.S. Soccer\u2019s Referee Abuse Prevention policy. Your behavior would earn game suspensions. The ref remembers your face \u2014 and tells other refs about you. You\u2019re part of the reason 80% of new refs quit." },
+    { "max": 85,  "color": "#E63946", "title": "\ud83d\udd34 Parking Lot Problems",      "desc": "You ARE the referee crisis. Your behavior falls into Level 2\u20133 of the RAP framework \u2014 the kind that causes refs to walk away from the sport permanently. Games get canceled because of people with your score. This is your wake-up call." },
+    { "max": 100, "color": "#8B0000", "title": "\u26d4 Lifetime Ban Loading\u2026",      "desc": "Under the RAP policy, you\u2019d face 6\u201324 month suspensions or a lifetime ban. You represent the extreme end of the abuse spectrum. You are actively making youth soccer worse for every child, referee, and family. Seriously \u2014 get help, attend a referee game, and start over." }
+  ]
+}

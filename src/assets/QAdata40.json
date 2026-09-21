@@ -1,0 +1,532 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Offside Disagreement",
+      "scenario": "The referee calls offside on a play you are certain was onside. Your team had a clear chance to score. You...",
+      "options": [
+        { "letter": "A", "text": "Take a deep breath and wait for the next play.", "pts": 0 },
+        { "letter": "B", "text": "Stand up and shout “He was onside!” so everyone nearby hears you.", "pts": 10 },
+        { "letter": "C", "text": "Cup your hands and yell “Get some glasses, referee!”", "pts": 25 },
+        { "letter": "D", "text": "Spend the next ten minutes loudly mocking every decision the referee makes.", "pts": 40 }
+      ],
+      "reveal": "RAP Level 1 — Verbal Taunting[cite: 18, 87]. Questioning a referee's vision [cite: 95] or competence [cite: 93] is a direct example of Level 1 abuse. Under U.S. Soccer policy, this carries a minimum 2-game suspension[cite: 40, 108]."
+    },
+    {
+      "id": 2,
+      "tag": "RAP Physical Level 2",
+      "title": "The Post-Match Departure",
+      "scenario": "Your team loses the game on a late penalty call. The match ended 10 minutes ago. You...",
+      "options": [
+        { "letter": "A", "text": "Tell the players “well done” and head home. It’s just a game.", "pts": 0 },
+        { "letter": "B", "text": "Stare at the referee while packing your bags to make sure they feel your disapproval.", "pts": 10 },
+        { "letter": "C", "text": "Wait near the exit to have a “serious word” with the referee about their performance.", "pts": 35 },
+        { "letter": "D", "text": "Follow the referee toward their car or the changing rooms to continue arguing.", "pts": 50 }
+      ],
+      "reveal": "RAP Physical Level 2 — Confrontation[cite: 217]. Following a referee to their vehicle [cite: 230] or private space is Physical Level 2 abuse. This carries a minimum 10-game suspension[cite: 42, 236]."
+    },
+    {
+      "id": 3,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Online Critic",
+      "scenario": "A video of a controversial call from today's match is posted on a social media group. You...",
+      "options": [
+        { "letter": "A", "text": "Keep scrolling. You have better things to do.", "pts": 0 },
+        { "letter": "B", "text": "Post a simple comment saying “Bad call” and move on.", "pts": 5 },
+        { "letter": "C", "text": "Write a long post tagging the league and demanding the referee be banned.", "pts": 30 },
+        { "letter": "D", "text": "Find the referee’s personal profile and send them a private message criticizing them.", "pts": 50 }
+      ],
+      "reveal": "RAP Level 3 — Cyberbullying[cite: 22, 138]. Directing personal attacks or harassment at a referee online [cite: 148] is Level 3 abuse. This can lead to a 6–24 month suspension[cite: 40, 154]."
+    },
+    {
+      "id": 4,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Bias Accusation",
+      "scenario": "It feels like every 50/50 challenge is being called against your team. You...",
+      "options": [
+        { "letter": "A", "text": "Accept that the referee has a different angle than you do.", "pts": 0 },
+        { "letter": "B", "text": "Turn to the person next to you and complain about the consistency.", "pts": 5 },
+        { "letter": "C", "text": "Shout “Call it both ways!” at the top of your lungs.", "pts": 15 },
+        { "letter": "D", "text": "Yell “How much is the other team paying you?!”", "pts": 30 }
+      ],
+      "reveal": "RAP Level 1 — Verbal Taunting[cite: 18, 87]. Accusing a referee of being paid off [cite: 97] or biased [cite: 96] is a direct example of undermining their authority[cite: 90]. It is a Level 1 offense[cite: 18]."
+    },
+    {
+      "id": 5,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Emotional Outburst",
+      "scenario": "A very obvious foul is missed right in front of you. Your immediate reaction is to...",
+      "options": [
+        { "letter": "A", "text": "Clap sarcastically once and then sit back down.", "pts": 5 },
+        { "letter": "B", "text": "Stand up and throw your arms out in frustration.", "pts": 10 },
+        { "letter": "C", "text": "Pace the sideline yelling angry, disrespectful comments.", "pts": 30 },
+        { "letter": "D", "text": "Scream insults and profanities directly at the referee.", "pts": 50 }
+      ],
+      "reveal": "RAP Level 2 — Harassment[cite: 20, 115]. Using aggressive language [cite: 118] or profanity [cite: 120] to intimidate a referee is Level 2 abuse. It carries a minimum 4-game suspension[cite: 40, 132]."
+    },
+    {
+      "id": 6,
+      "tag": "Youth Referee Awareness",
+      "title": "The Junior Referee",
+      "scenario": "A referee who looks like a teenager makes a mistake. You...",
+      "options": [
+        { "letter": "A", "text": "Stay quiet. They are a young person still learning the job.", "pts": 0 },
+        { "letter": "B", "text": "Sigh loudly so they hear you, but don't say anything specific.", "pts": 10 },
+        { "letter": "C", "text": "Yell “Learn the rules!” like you would to an adult.", "pts": 25 },
+        { "letter": "D", "text": "Mock their age, calling them “too young” or “clueless.”", "pts": 35 }
+      ],
+      "reveal": "Minor Multiplier[cite: 49]. Under the RAP policy, offenses against minor referees [cite: 49] are automatically subject to triple punishment[cite: 49]."
+    },
+    {
+      "id": 7,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Personal Space Test",
+      "scenario": "You want to ask the referee about a call during a break. You...",
+      "options": [
+        { "letter": "A", "text": "Wait for a calm moment and ask respectfully from a distance.", "pts": 0 },
+        { "letter": "B", "text": "Call out to them from the sideline while they are running past.", "pts": 5 },
+        { "letter": "C", "text": "Stand in their path as they walk to the sideline so they have to stop.", "pts": 25 },
+        { "letter": "D", "text": "Get inside their personal space (face-to-face) to make your point.", "pts": 40 }
+      ],
+      "reveal": "RAP Level 2 — Intimidation[cite: 20, 115]. Using your body language or invading a referee's face [cite: 126] to make them feel unsafe is Level 2 abuse[cite: 116]."
+    },
+    {
+      "id": 8,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Parking Lot Threat",
+      "scenario": "In a moment of extreme anger after a red card, what is the most aggressive thing you might say?",
+      "options": [
+        { "letter": "A", "text": "“I don't agree with that call.”", "pts": 0 },
+        { "letter": "B", "text": "“You’re having a terrible match today.”", "pts": 5 },
+        { "letter": "C", "text": "“You’re going to regret making that call!”", "pts": 35 },
+        { "letter": "D", "text": "“I’ll see you in the parking lot later.”", "pts": 50 }
+      ],
+      "reveal": "RAP Level 3 — Threats[cite: 22, 138]. Threatening to meet a referee in the parking lot [cite: 145] or telling them they will 'pay' for a call [cite: 144] is Level 3 abuse[cite: 141]."
+    },
+    {
+      "id": 9,
+      "tag": "RAP Physical Level 1",
+      "title": "The Attention Grabber",
+      "scenario": "The referee is walking away. You want their attention, so you...",
+      "options": [
+        { "letter": "A", "text": "Let it go and talk to a league representative later.", "pts": 0 },
+        { "letter": "B", "text": "Shout their name or “Ref!” loudly.", "pts": 10 },
+        { "letter": "C", "text": "Reach out and tap them on the shoulder or arm.", "pts": 30 },
+        { "letter": "D", "text": "Grab their jersey to stop them from walking away.", "pts": 45 }
+      ],
+      "reveal": "RAP Physical Level 1 — Minor Contact[cite: 27, 195]. Any deliberate, unwanted touching [cite: 196], such as tapping a shoulder [cite: 200] or grabbing a jersey[cite: 202], is physical abuse."
+    },
+    {
+      "id": 10,
+      "tag": "RAP Physical Level 2",
+      "title": "The Pitch Invasion",
+      "scenario": "An opponent commits a dangerous foul on your team, and the referee gives no card. You...",
+      "options": [
+        { "letter": "A", "text": "Stay on the sideline and wait for the match to continue.", "pts": 0 },
+        { "letter": "B", "text": "Yell at the referee from the sideline about the lack of a card.", "pts": 10 },
+        { "letter": "C", "text": "Step onto the field of play to show the referee your anger.", "pts": 35 },
+        { "letter": "D", "text": "Run onto the pitch to confront the referee directly.", "pts": 50 }
+      ],
+      "reveal": "RAP Physical Level 2 — Confrontation[cite: 29, 217]. Entering the field to confront an official is an intentional confrontation [cite: 217] and is a Level 2 physical offense[cite: 29]."
+    },
+    {
+      "id": 11,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Boundary Line Dispute",
+      "scenario": "The ball goes out for a throw-in. You are sure it is your ball, but the referee gives it to the opponent. You...",
+      "options": [
+        { "letter": "A", "text": "Accept the decision and focus on the defense.", "pts": 0 },
+        { "letter": "B", "text": "Mutter “it was our ball” to yourself.", "pts": 5 },
+        { "letter": "C", "text": "Shout “It’s our ball! Learn the lines, ref!”", "pts": 20 },
+        { "letter": "D", "text": "Spend the rest of the half shouting about the referee's incompetence.", "pts": 35 }
+      ],
+      "reveal": "RAP Level 1 — Verbal Taunting[cite: 18, 87]. This behavior undermines the referee's authority [cite: 90] and ability to officiate the game[cite: 88]."
+    },
+    {
+      "id": 12,
+      "tag": "RAP Physical Level 3",
+      "title": "The Object Throw",
+      "scenario": "The game ends in a way you find completely unfair. As the referee walks off, you...",
+      "options": [
+        { "letter": "A", "text": "Pack your things and leave.", "pts": 0 },
+        { "letter": "B", "text": "Call out “Terrible job today!”", "pts": 15 },
+        { "letter": "C", "text": "Throw a water bottle toward the referee in frustration.", "pts": 45 },
+        { "letter": "D", "text": "Try to physically push or strike the referee.", "pts": 50 }
+      ],
+      "reveal": "RAP Physical Level 3 — Violent Contact[cite: 31, 245]. Throwing objects with intent to hit [cite: 256] or striking [cite: 251] an official can result in a lifetime ban[cite: 42, 263]."
+    },
+    {
+      "id": 13,
+      "tag": "RAP Non-Physical Level 4",
+      "title": "The Dignity Rule",
+      "scenario": "In the heat of an argument, you use a slur or comment about the referee’s nationality or identity. You...",
+      "options": [
+        { "letter": "A", "text": "I would never do this; it's just a sport.", "pts": 0 },
+        { "letter": "B", "text": "I might make a comment but immediately apologize.", "pts": 10 },
+        { "letter": "C", "text": "I think offensive comments are part of stadium culture.", "pts": 35 },
+        { "letter": "D", "text": "I use whatever language is most hurtful to win the argument.", "pts": 50 }
+      ],
+      "reveal": "RAP Level 4 — Discriminatory Act[cite: 24, 163]. Attacks on race, skin color, nationality, or identity [cite: 167] have no place in soccer and carry a minimum 10-game/12-month suspension[cite: 40, 177, 178]."
+    },
+    {
+      "id": 14,
+      "tag": "RAP Physical Level 2",
+      "title": "The Equipment Tantrum",
+      "scenario": "You are angry at a call and see the referee's bag or the corner flag nearby. You...",
+      "options": [
+        { "letter": "A", "text": "Leave it alone.", "pts": 0 },
+        { "letter": "B", "text": "Kick the grass near it.", "pts": 10 },
+        { "letter": "C", "text": "Knock over the equipment in frustration.", "pts": 30 },
+        { "letter": "D", "text": "Damage or throw the referee’s personal gear.", "pts": 45 }
+      ],
+      "reveal": "RAP Physical Level 2 — Property Damage[cite: 42, 223]. Damaging property [cite: 223], such as throwing equipment [cite: 227] or tampering with a bag [cite: 228], is Level 2 abuse[cite: 217]."
+    },
+    {
+      "id": 15,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Sarcastic Clap",
+      "scenario": "The referee gives a card to your player. You stand up and clap sarcastically while staring at them. You...",
+      "options": [
+        { "letter": "A", "text": "I stay seated and quiet.", "pts": 0 },
+        { "letter": "B", "text": "I shake my head but don't clap.", "pts": 10 },
+        { "letter": "C", "text": "I give one loud, sarcastic clap.", "pts": 20 },
+        { "letter": "D", "text": "I applaud and shout “Brilliant job!” for two minutes straight.", "pts": 35 }
+      ],
+      "reveal": "RAP Level 2 — Intimidation[cite: 20, 115]. Gestures intended to belittle the referee [cite: 88] fall under the harassment framework[cite: 118]."
+    },
+    {
+      "id": 16,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Rule Expert",
+      "scenario": "A foul is called. You shout “Do you even know the rules?!” at the referee. You...",
+      "options": [
+        { "letter": "A", "text": "I never question their knowledge mid-game.", "pts": 0 },
+        { "letter": "B", "text": "I might say it quietly to another parent.", "pts": 10 },
+        { "letter": "C", "text": "I say it once when I'm frustrated.", "pts": 25 },
+        { "letter": "D", "text": "I repeat it every time there is a whistle.", "pts": 40 }
+      ],
+      "reveal": "RAP Level 1 — Verbal Taunting[cite: 18, 87]. Questioning the referee's competence [cite: 92, 93] is cited as Level 1 abuse[cite: 87]."
+    },
+    {
+      "id": 17,
+      "tag": "RAP Physical Level 1",
+      "title": "The Shoulder Brush",
+      "scenario": "While walking past the referee, you intentionally brush your shoulder against theirs. You...",
+      "options": [
+        { "letter": "A", "text": "I give them plenty of space.", "pts": 0 },
+        { "letter": "B", "text": "I walk close but don't touch.", "pts": 10 },
+        { "letter": "C", "text": "It was an 'accident,' I might have brushed them.", "pts": 30 },
+        { "letter": "D", "text": "I intentionally bump them to show I'm there.", "pts": 45 }
+      ],
+      "reveal": "RAP Physical Level 1 — Minor Contact[cite: 27, 195]. Intentionally bumping [cite: 203] or brushing against an official [cite: 196] is physical abuse."
+    },
+    {
+      "id": 18,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Sideline Pacing",
+      "scenario": "A call goes against you. You begin pacing the touchline, yelling and gesturing wildly at the referee. You...",
+      "options": [
+        { "letter": "A", "text": "I stay in my seat or area.", "pts": 0 },
+        { "letter": "B", "text": "I stand up but stay calm.", "pts": 10 },
+        { "letter": "C", "text": "I walk a few steps while complaining.", "pts": 25 },
+        { "letter": "D", "text": "I follow the referee up and down the line while yelling.", "pts": 40 }
+      ],
+      "reveal": "RAP Level 2 — Harassment[cite: 20, 115]. This behavior is intended to make a referee feel unsafe [cite: 116] and is classified as intimidation[cite: 115]."
+    },
+    {
+      "id": 19,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Digital Threat",
+      "scenario": "You post on a public forum that the referee “better watch their back” after that performance. You...",
+      "options": [
+        { "letter": "A", "text": "I would never post that.", "pts": 0 },
+        { "letter": "B", "text": "I might vent without the threat.", "pts": 10 },
+        { "letter": "C", "text": "I post it but delete it later.", "pts": 35 },
+        { "letter": "D", "text": "I post it and hope they see it.", "pts": 50 }
+      ],
+      "reveal": "RAP Level 3 — Threats[cite: 22, 138]. Using language like “watch your back” [cite: 147] online [cite: 141] is a serious Level 3 offense[cite: 138]."
+    },
+    {
+      "id": 20,
+      "tag": "RAP Physical Level 2",
+      "title": "The Water Splash",
+      "scenario": "You are holding a water bottle and, in anger, you spray water toward the referee. You...",
+      "options": [
+        { "letter": "A", "text": "I keep my hands to myself.", "pts": 0 },
+        { "letter": "B", "text": "I squeeze the bottle but not at the ref.", "pts": 15 },
+        { "letter": "C", "text": "I spray water on the ground near them.", "pts": 35 },
+        { "letter": "D", "text": "I spray water directly at them.", "pts": 50 }
+      ],
+      "reveal": "RAP Physical Level 2 — Intentional Confrontation[cite: 29, 217]. Using an object in a non-striking manner [cite: 222], like spraying water [cite: 227], is Level 2 physical abuse[cite: 217]."
+    },
+    {
+      "id": 21,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Insinuation",
+      "scenario": "You yell “Who’s on your team, ref?!” after a foul is called. You...",
+      "options": [
+        { "letter": "A", "text": "I never imply bias.", "pts": 0 },
+        { "letter": "B", "text": "I might think it, but don't say it.", "pts": 10 },
+        { "letter": "C", "text": "I shout it once when I'm mad.", "pts": 20 },
+        { "letter": "D", "text": "I say it repeatedly to annoy them.", "pts": 30 }
+      ],
+      "reveal": "RAP Level 1 — Verbal Taunting[cite: 18, 87]. Insinuating behavior [cite: 90] that undermines referee authority [cite: 88] is a Level 1 offense[cite: 18]."
+    },
+    {
+      "id": 22,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Face-to-Face",
+      "scenario": "During halftime, you get into the referee’s face to tell them they are doing a “pathetic job.” You...",
+      "options": [
+        { "letter": "A", "text": "I don't approach them.", "pts": 0 },
+        { "letter": "B", "text": "I talk from the sideline.", "pts": 10 },
+        { "letter": "C", "text": "I approach them but stay 2 meters away.", "pts": 30 },
+        { "letter": "D", "text": "I get as close as possible without touching.", "pts": 45 }
+      ],
+      "reveal": "RAP Level 2 — Intimidation[cite: 20, 115]. Getting in the referee's face [cite: 126] is specifically listed as Level 2 harassment/intimidation[cite: 115]."
+    },
+    {
+      "id": 23,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Parking Lot Standoff",
+      "scenario": "You wait by the gate as the referee is leaving and shout “You won't get away with this!” You...",
+      "options": [
+        { "letter": "A", "text": "I leave as soon as the whistle blows.", "pts": 0 },
+        { "letter": "B", "text": "I might wait but don't say anything.", "pts": 15 },
+        { "letter": "C", "text": "I yell from my car.", "pts": 30 },
+        { "letter": "D", "text": "I stand in their way and shout threats.", "pts": 50 }
+      ],
+      "reveal": "RAP Level 3 — Threats[cite: 22, 138]. Aggressive language [cite: 141] and threats [cite: 144] in the parking lot area are Level 3 offenses[cite: 138]."
+    },
+    {
+      "id": 24,
+      "tag": "RAP Physical Level 1",
+      "title": "The Finger Point",
+      "scenario": "While arguing, you poke your finger toward the referee and touch their chest. You...",
+      "options": [
+        { "letter": "A", "text": "I keep my distance.", "pts": 0 },
+        { "letter": "B", "text": "I point but don't touch.", "pts": 15 },
+        { "letter": "C", "text": "I might have accidentally touched them.", "pts": 35 },
+        { "letter": "D", "text": "I intentionally poke them to make a point.", "pts": 50 }
+      ],
+      "reveal": "RAP Physical Level 1 — Minor Contact[cite: 27, 195]. Touching a referee's chest [cite: 201] is a specific example of Level 1 physical abuse[cite: 195]."
+    },
+    {
+      "id": 25,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Mocking Tone",
+      "scenario": "Every time the referee speaks, you repeat what they say in a high-pitched, mocking voice. You...",
+      "options": [
+        { "letter": "A", "text": "I don't do this.", "pts": 0 },
+        { "letter": "B", "text": "I do it quietly once.", "pts": 10 },
+        { "letter": "C", "text": "I do it loudly a few times.", "pts": 25 },
+        { "letter": "D", "text": "I do it the whole game to embarrass them.", "pts": 40 }
+      ],
+      "reveal": "RAP Level 1 — Verbal Taunting[cite: 18, 87]. Mocking [cite: 94] or belittling speech [cite: 88] is abuse[cite: 87]. If it becomes aggressive, it moves to Level 2[cite: 115]."
+    },
+    {
+      "id": 26,
+      "tag": "RAP Non-Physical Level 4",
+      "title": "The Stereotype",
+      "scenario": "You make a comment about a referee’s gender, implying they don’t understand the game. You...",
+      "options": [
+        { "letter": "A", "text": "I never judge by identity.", "pts": 0 },
+        { "letter": "B", "text": "I might think it but stay silent.", "pts": 10 },
+        { "letter": "C", "text": "I say it to a friend nearby.", "pts": 30 },
+        { "letter": "D", "text": "I shout it at the referee.", "pts": 50 }
+      ],
+      "reveal": "RAP Level 4 — Discriminatory Act[cite: 24, 163]. Using harmful stereotypes [cite: 172] based on gender [cite: 167] is a Level 4 offense[cite: 163]."
+    },
+    {
+      "id": 27,
+      "tag": "RAP Physical Level 2",
+      "title": "The Arm Grab",
+      "scenario": "The referee is trying to move away, and you grab their arm to keep talking to them. You...",
+      "options": [
+        { "letter": "A", "text": "I don't touch them.", "pts": 0 },
+        { "letter": "B", "text": "I reach but don't grab.", "pts": 15 },
+        { "letter": "C", "text": "I grab them lightly.", "pts": 35 },
+        { "letter": "D", "text": "I grab them forcefully.", "pts": 50 }
+      ],
+      "reveal": "RAP Physical Level 2 — Intentional Confrontation[cite: 29, 217]. Grabbing an official [cite: 221], especially forcefully [cite: 226], is Level 2 physical abuse[cite: 217]."
+    },
+    {
+      "id": 28,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Dismissive Comment",
+      "scenario": "The referee makes a call, and you shout “You’re a joke!” You...",
+      "options": [
+        { "letter": "A", "text": "I stay respectful.", "pts": 0 },
+        { "letter": "B", "text": "I mutter it.", "pts": 10 },
+        { "letter": "C", "text": "I shout it once.", "pts": 20 },
+        { "letter": "D", "text": "I yell it after every call.", "pts": 30 }
+      ],
+      "reveal": "RAP Level 1 — Verbal Taunting[cite: 18, 87]. Using dismissive language [cite: 98] like “you suck” [cite: 99] or “you're a joke” [cite: 123] is abuse[cite: 87, 115]."
+    },
+    {
+      "id": 29,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Identity Hunt",
+      "scenario": "You search online to find the referee's home town or employer to include in your complaint. You...",
+      "options": [
+        { "letter": "A", "text": "I don't care about their personal life.", "pts": 0 },
+        { "letter": "B", "text": "I only look for their name.", "pts": 10 },
+        { "letter": "C", "text": "I look for their details out of curiosity.", "pts": 30 },
+        { "letter": "D", "text": "I do it to show them I know who they are.", "pts": 50 }
+      ],
+      "reveal": "RAP Level 3 — Doxing[cite: 22, 138]. Doxing [cite: 141] or tracking personal details [cite: 141] for the purpose of harassment is a Level 3 offense[cite: 138]."
+    },
+    {
+      "id": 30,
+      "tag": "RAP Physical Level 2",
+      "title": "The Ball Kick",
+      "scenario": "In a fit of rage, you kick a spare ball onto the field toward the referee. You...",
+      "options": [
+        { "letter": "A", "text": "I don't touch the balls.", "pts": 0 },
+        { "letter": "B", "text": "I kick it to the side.", "pts": 15 },
+        { "letter": "C", "text": "I kick it near them on purpose.", "pts": 35 },
+        { "letter": "D", "text": "I kick it at them with force.", "pts": 50 }
+      ],
+      "reveal": "RAP Physical Level 2 — Intentional Confrontation[cite: 29, 217]. Kicking a ball with intent to hit [cite: 257] or disrupt [cite: 222] is Level 2 or 3 abuse[cite: 217, 245]."
+    },
+    {
+      "id": 31,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Threatening Stare",
+      "scenario": "You stand alone and stare intensely at the referee for several minutes without saying a word. You...",
+      "options": [
+        { "letter": "A", "text": "I watch the game.", "pts": 0 },
+        { "letter": "B", "text": "I look at them briefly.", "pts": 10 },
+        { "letter": "C", "text": "I stare them down when they are near.", "pts": 25 },
+        { "letter": "D", "text": "I make eye contact and don't look away.", "pts": 40 }
+      ],
+      "reveal": "RAP Level 2 — Intimidation[cite: 20, 115]. Body language intended to make a referee feel unsafe [cite: 116] is classified as Level 2 abuse[cite: 115]."
+    },
+    {
+      "id": 32,
+      "tag": "RAP Non-Physical Level 4",
+      "title": "The Religion Jab",
+      "scenario": "You make a derogatory comment about the referee’s religious symbols or clothing. You...",
+      "options": [
+        { "letter": "A", "text": "I would never do that.", "pts": 0 },
+        { "letter": "B", "text": "I might think it.", "pts": 10 },
+        { "letter": "C", "text": "I make a joke about it.", "pts": 35 },
+        { "letter": "D", "text": "I use it as an insult.", "pts": 50 }
+      ],
+      "reveal": "RAP Level 4 — Discriminatory Act[cite: 24, 163]. Discrimination based on religion [cite: 167] is a Level 4 offense [cite: 163] and carries heavy penalties[cite: 177, 178]."
+    },
+    {
+      "id": 33,
+      "tag": "RAP Physical Level 1",
+      "title": "The Attention Tap",
+      "scenario": "You tap the referee’s back to tell them they missed a foul. You...",
+      "options": [
+        { "letter": "A", "text": "I don't touch them.", "pts": 0 },
+        { "letter": "B", "text": "I call out from far away.", "pts": 10 },
+        { "letter": "C", "text": "I tap them once.", "pts": 30 },
+        { "letter": "D", "text": "I poke them repeatedly.", "pts": 45 }
+      ],
+      "reveal": "RAP Physical Level 1 — Minor Contact[cite: 27, 195]. Tapping a shoulder [cite: 200] or back is considered slight deliberate touching [cite: 198] and is abuse[cite: 195]."
+    },
+    {
+      "id": 34,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Appearance Mock",
+      "scenario": "You yell something about the referee’s physical fitness or speed. You...",
+      "options": [
+        { "letter": "A", "text": "I don't judge their appearance.", "pts": 0 },
+        { "letter": "B", "text": "I think it but stay silent.", "pts": 10 },
+        { "letter": "C", "text": "I make a joke to a friend.", "pts": 20 },
+        { "letter": "D", "text": "I yell it at the referee.", "pts": 35 }
+      ],
+      "reveal": "RAP Level 1 — Verbal Taunting[cite: 18, 87]. Mocking abilities [cite: 94] or appearance [cite: 94] is listed as Level 1 abuse[cite: 87]."
+    },
+    {
+      "id": 35,
+      "tag": "RAP Physical Level 2",
+      "title": "The Flag Tug",
+      "scenario": "You are standing near the assistant referee and tug on their flag to get their attention. You...",
+      "options": [
+        { "letter": "A", "text": "I stay away from their equipment.", "pts": 0 },
+        { "letter": "B", "text": "I call out to them.", "pts": 10 },
+        { "letter": "C", "text": "I touch the flag.", "pts": 30 },
+        { "letter": "D", "text": "I pull the flag forcefully.", "pts": 45 }
+      ],
+      "reveal": "RAP Physical Level 2 — Intentional Confrontation[cite: 29, 217]. Pulling [cite: 221] or grabbing equipment [cite: 222] is a Level 2 physical offense[cite: 217]."
+    },
+    {
+      "id": 36,
+      "tag": "RAP Non-Physical Level 3",
+      "title": "The Throat Gesture",
+      "scenario": "You make a throat-cutting gesture at the referee after a bad call. You...",
+      "options": [
+        { "letter": "A", "text": "I don't make aggressive gestures.", "pts": 0 },
+        { "letter": "B", "text": "I make a thumbs-down gesture.", "pts": 10 },
+        { "letter": "C", "text": "I do it quickly once.", "pts": 35 },
+        { "letter": "D", "text": "I do it and hold the pose.", "pts": 50 }
+      ],
+      "reveal": "RAP Level 3 — Threats[cite: 22, 138]. Gestures that threaten physical violence [cite: 141] are Level 3 offenses[cite: 138]."
+    },
+    {
+      "id": 37,
+      "tag": "RAP Non-Physical Level 2",
+      "title": "The Path Block",
+      "scenario": "The referee is trying to leave the field. You stand directly in the gate so they cannot pass. You...",
+      "options": [
+        { "letter": "A", "text": "I give them plenty of space.", "pts": 0 },
+        { "letter": "B", "text": "I stand near the path.", "pts": 15 },
+        { "letter": "C", "text": "I make them walk around me.", "pts": 35 },
+        { "letter": "D", "text": "I physically block them with my body.", "pts": 50 }
+      ],
+      "reveal": "RAP Level 2 — Intimidation[cite: 20, 115]. Using body language to block a path [cite: 116] is intimidation[cite: 115]."
+    },
+    {
+      "id": 38,
+      "tag": "RAP Physical Level 1",
+      "title": "The Jersey Pull",
+      "scenario": "You pull on the referee’s jersey during a heated discussion. You...",
+      "options": [
+        { "letter": "A", "text": "I don't touch them.", "pts": 0 },
+        { "letter": "B", "text": "I reach for them but stop.", "pts": 15 },
+        { "letter": "C", "text": "I pull it once.", "pts": 35 },
+        { "letter": "D", "text": "I pull it and won't let go.", "pts": 50 }
+      ],
+      "reveal": "RAP Physical Level 1 — Minor Contact[cite: 27, 195]. Grabbing a jersey [cite: 202] is a specific example of Level 1 physical abuse[cite: 195]."
+    },
+    {
+      "id": 39,
+      "tag": "RAP Non-Physical Level 1",
+      "title": "The Tone Test",
+      "scenario": "You speak to the referee in a loud, aggressive tone of voice. You...",
+      "options": [
+        { "letter": "A", "text": "I keep my voice calm.", "pts": 0 },
+        { "letter": "B", "text": "I speak firmly.", "pts": 10 },
+        { "letter": "C", "text": "I raise my voice.", "pts": 20 },
+        { "letter": "D", "text": "I yell as loud as I can.", "pts": 35 }
+      ],
+      "reveal": "RAP Level 1 — Verbal Taunting[cite: 18, 87]. Using an aggressive tone [cite: 100] is listed as abuse[cite: 87]."
+    },
+    {
+      "id": 40,
+      "tag": "RAP Physical Level 3",
+      "title": "The Ultimate Line",
+      "scenario": "You become so angry that you consider spitting toward or at the referee. You...",
+      "options": [
+        { "letter": "A", "text": "I would never consider this.", "pts": 0 },
+        { "letter": "B", "text": "I spit on the ground far away.", "pts": 15 },
+        { "letter": "C", "text": "I spit toward them but not to hit them.", "pts": 40 },
+        { "letter": "D", "text": "I spit at them directly.", "pts": 50 }
+      ],
+      "reveal": "RAP Physical Level 3 — Violent Contact[cite: 31, 245]. Spitting [cite: 249] is a violent Level 3 offense [cite: 245] and carries the severest penalties[cite: 263]."
+    }
+  ],
+  "tiers": [
+    { "max": 10,  "color": "#2DC653", "title": "The Referee's Dream", "desc": "You are a rare find. You respect the game and the people who run it. Keep it up." },
+    { "max": 25,  "color": "#7EC850", "title": "Mostly Harmless", "desc": "You have your moments of frustration, but you stay within the bounds of respect." },
+    { "max": 45,  "color": "#FFD700", "title": "Yellow Card Territory", "desc": "You are starting to cross the line. Your behavior is becoming a problem for the officials." },
+    { "max": 65,  "color": "#FF8C00", "title": "Red Card Energy", "desc": "You are in official abuse territory. You are likely to face suspensions under the RAP policy." },
+    { "max": 85,  "color": "#E63946", "title": "Serious Consequences", "desc": "Your behavior is harmful to the sport. You face multi-month bans." },
+    { "max": 100, "color": "#8B0000", "title": "Lifetime Ban Loading...", "desc": "You are part of the reason officials walk away. You face permanent exclusion from the sport." }
+  ]
+}

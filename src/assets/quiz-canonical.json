@@ -1,0 +1,1112 @@
+{
+  "version": "3.0",
+  "description": "Referee Education, Awareness, and Protection Quiz - Canonical Data",
+  "effectiveDate": "2025-07-23",
+  "questions": [
+    {
+      "id": 1,
+      "category": "education",
+      "subcategory": "verbal-taunting",
+      "learningObjective": "Insults and taunts hurt.",
+      "title": "A Call You Disagree With",
+      "scenario": "The ref stops play. You think your team did nothing wrong. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shout that the ref needs glasses."
+        },
+        {
+          "letter": "B",
+          "text": "Tell the ref they are useless."
+        },
+        {
+          "letter": "C",
+          "text": "Keep asking politely until the ref changes the call."
+        },
+        {
+          "letter": "D",
+          "text": "Accept the call and keep cheering for your team."
+        }
+      ],
+      "correctOption": "D",
+      "reveal": "You can disagree and still move on. Asking again and again puts pressure on the ref, even if your voice is calm.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=6"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 1",
+        "summary": "Insults and taunts hurt.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 6",
+        "detail": "Covers belittling an official or undermining their authority.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=6"
+      }
+    },
+    {
+      "id": 2,
+      "category": "education",
+      "subcategory": "confrontation",
+      "learningObjective": "Do not grab, chase, or corner the ref.",
+      "title": "After the Game",
+      "scenario": "Your team loses. You want to talk to the ref, but they are leaving. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Follow the ref until they are alone."
+        },
+        {
+          "letter": "B",
+          "text": "Stand in front of the ref so they cannot leave."
+        },
+        {
+          "letter": "C",
+          "text": "Let them leave. Send your concern to the league later."
+        },
+        {
+          "letter": "D",
+          "text": "Walk after them and calmly explain your side."
+        }
+      ],
+      "correctOption": "C",
+      "reveal": "A calm voice does not make following someone okay. Let the ref leave without having to listen to your complaint.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=12"
+      ],
+      "lesson": {
+        "label": "Physical abuse · Level 2",
+        "summary": "Do not grab, chase, or corner the ref.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 12",
+        "detail": "Covers confrontational contact and property damage. Examples include pursuing an official to their car.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=12"
+      }
+    },
+    {
+      "id": 3,
+      "category": "education",
+      "subcategory": "cyberbullying",
+      "learningObjective": "Online abuse counts too.",
+      "title": "A Clip Online",
+      "scenario": "Someone posts a video of a call you think was wrong. You want the league to look at it. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Post insults on the ref’s own page."
+        },
+        {
+          "letter": "B",
+          "text": "Send the clip to the league through its feedback form."
+        },
+        {
+          "letter": "C",
+          "text": "Ask everyone to send angry messages to the ref."
+        },
+        {
+          "letter": "D",
+          "text": "Post the ref’s name so others can politely ask for answers."
+        }
+      ],
+      "correctOption": "B",
+      "reveal": "The league can review a concern without a crowd targeting the ref. Sharing their name to send people after them can turn into harassment.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=8"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 3",
+        "summary": "Online abuse counts too.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 8",
+        "detail": "Includes cyberbullying and exposing private information to target an official.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=8"
+      }
+    },
+    {
+      "id": 4,
+      "category": "education",
+      "subcategory": "intimidation",
+      "learningObjective": "Do not pressure or scare the ref.",
+      "title": "Let Them Walk Away",
+      "scenario": "You ask the ref about a call. They say they need to go. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Step back and let them go."
+        },
+        {
+          "letter": "B",
+          "text": "Block their way until they answer."
+        },
+        {
+          "letter": "C",
+          "text": "Get close to their face and shout."
+        },
+        {
+          "letter": "D",
+          "text": "Walk beside them and keep asking in a quiet voice."
+        }
+      ],
+      "correctOption": "A",
+      "reveal": "Respecting an answer includes knowing when to stop. Following along keeps the pressure on after the ref has ended the talk.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=7"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 2",
+        "summary": "Do not pressure or scare the ref.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 7",
+        "detail": "Covers harassment and intimidation through words or behavior.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=7"
+      }
+    },
+    {
+      "id": 5,
+      "category": "education",
+      "subcategory": "threats",
+      "learningObjective": "Threatening harm is abuse.",
+      "title": "A Red Card",
+      "scenario": "Your teammate gets sent off. You think the ref got it wrong. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tell the ref they will regret this."
+        },
+        {
+          "letter": "B",
+          "text": "Threaten to hurt the ref after the game."
+        },
+        {
+          "letter": "C",
+          "text": "Ask your teammate to stay while you politely argue the call."
+        },
+        {
+          "letter": "D",
+          "text": "Help your teammate leave the field calmly."
+        }
+      ],
+      "correctOption": "D",
+      "reveal": "Help your teammate follow the decision. Keeping them on the field to argue makes things worse, even if you speak politely.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=8"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 3",
+        "summary": "Threatening harm is abuse.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 8",
+        "detail": "Includes threats of violence against officials.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=8"
+      }
+    },
+    {
+      "id": 6,
+      "category": "education",
+      "subcategory": "physical-contact-minor",
+      "learningObjective": "Keep your hands to yourself.",
+      "title": "Getting Their Attention",
+      "scenario": "The ref has not heard you. You want to ask a question. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pull hard on their shirt."
+        },
+        {
+          "letter": "B",
+          "text": "Poke them in the chest."
+        },
+        {
+          "letter": "C",
+          "text": "Wait for a suitable moment and speak without touching them."
+        },
+        {
+          "letter": "D",
+          "text": "Give their shoulder a small tap to get their attention."
+        }
+      ],
+      "correctOption": "C",
+      "reveal": "A small tap may sound harmless, but the ref has not agreed to be touched. Use your voice and give them space.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=11"
+      ],
+      "lesson": {
+        "label": "Physical abuse · Level 1",
+        "summary": "Keep your hands to yourself.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 11",
+        "detail": "Includes deliberate unwanted touches, even small ones.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=11"
+      }
+    },
+    {
+      "id": 7,
+      "category": "education",
+      "subcategory": "physical-contact-confrontation",
+      "learningObjective": "Do not grab, chase, or corner the ref.",
+      "title": "The Ref Is Leaving",
+      "scenario": "The ref turns away before you finish speaking. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grab their arm and hold them there."
+        },
+        {
+          "letter": "B",
+          "text": "Let them go and raise your concern with the league later."
+        },
+        {
+          "letter": "C",
+          "text": "Pull them back by their shirt."
+        },
+        {
+          "letter": "D",
+          "text": "Hold their arm gently for just one more sentence."
+        }
+      ],
+      "correctOption": "B",
+      "reveal": "Even a gentle hold stops someone from leaving freely. Keeping your hands to yourself matters more than finishing your point.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=12"
+      ],
+      "lesson": {
+        "label": "Physical abuse · Level 2",
+        "summary": "Do not grab, chase, or corner the ref.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 12",
+        "detail": "Covers confrontational contact and property damage. Examples include pursuing an official to their car.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=12"
+      }
+    },
+    {
+      "id": 8,
+      "category": "education",
+      "subcategory": "physical-contact-violent",
+      "learningObjective": "Violence has no place in the game.",
+      "title": "An Angry Fan",
+      "scenario": "A fan throws a bottle to hit the ref, but misses. What is the safest next step?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stay back and get help from event staff right away."
+        },
+        {
+          "letter": "B",
+          "text": "Throw a bottle back at the fan."
+        },
+        {
+          "letter": "C",
+          "text": "Cheer because the bottle missed."
+        },
+        {
+          "letter": "D",
+          "text": "Wait to report it unless the fan tries again."
+        }
+      ],
+      "correctOption": "A",
+      "reveal": "Missing does not make the throw safe. Get help now; do not wait for someone to get hurt.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=13"
+      ],
+      "lesson": {
+        "label": "Physical abuse · Level 3",
+        "summary": "Violence has no place in the game.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 13",
+        "detail": "Covers violent acts such as striking, spitting, and aiming objects at an official.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=13"
+      }
+    },
+    {
+      "id": 9,
+      "category": "education",
+      "subcategory": "harassment",
+      "learningObjective": "Do not pressure or scare the ref.",
+      "title": "Shouting From the Sideline",
+      "scenario": "You are angry about several calls and feel like swearing at the ref. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Swear at the ref after every call."
+        },
+        {
+          "letter": "B",
+          "text": "Get other fans to shout insults with you."
+        },
+        {
+          "letter": "C",
+          "text": "Shout your complaint just once so you can get it out."
+        },
+        {
+          "letter": "D",
+          "text": "Take a break from watching until you feel calm."
+        }
+      ],
+      "correctOption": "D",
+      "reveal": "Taking a break stops your anger from becoming someone else’s problem. One outburst can still hurt or frighten the ref.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=7"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 2",
+        "summary": "Do not pressure or scare the ref.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 7",
+        "detail": "Covers harassment and intimidation through words or behavior.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=7"
+      }
+    },
+    {
+      "id": 10,
+      "category": "awareness",
+      "subcategory": "youth-referees",
+      "learningObjective": "Support the person behind the whistle.",
+      "title": "A Young Ref",
+      "scenario": "A teenage ref makes a mistake. You are watching from the sideline. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tell the ref they are too young for the job."
+        },
+        {
+          "letter": "B",
+          "text": "Laugh at them with the other fans."
+        },
+        {
+          "letter": "C",
+          "text": "Keep cheering for the players and let the game continue."
+        },
+        {
+          "letter": "D",
+          "text": "Call out tips after every play to teach them the job."
+        }
+      ],
+      "correctOption": "C",
+      "reveal": "Unasked-for tips from the sideline can become constant pressure. Young refs need room to learn, just like players.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      ],
+      "lesson": {
+        "label": "Respecting referees",
+        "summary": "Support the person behind the whistle.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 2",
+        "detail": "The policy guide encourages everyone to protect officials and keep soccer welcoming.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      }
+    },
+    {
+      "id": 11,
+      "category": "awareness",
+      "subcategory": "rule-humility",
+      "learningObjective": "Insults and taunts hurt.",
+      "title": "Was That Handball?",
+      "scenario": "You think the ball hit a player’s hand. The ref lets play go on. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shout that the ref is cheating."
+        },
+        {
+          "letter": "B",
+          "text": "Let play continue and look up the rule later."
+        },
+        {
+          "letter": "C",
+          "text": "Run onto the field to stop the game."
+        },
+        {
+          "letter": "D",
+          "text": "Hold up your phone and insist the ref watch your replay."
+        }
+      ],
+      "correctOption": "B",
+      "reveal": "You may have missed something, and not every touch on a hand is a foul. Your phone is not a reason to stop the game.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=6"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 1",
+        "summary": "Insults and taunts hurt.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 6",
+        "detail": "Covers belittling an official or undermining their authority.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=6"
+      }
+    },
+    {
+      "id": 12,
+      "category": "awareness",
+      "subcategory": "emotional-escalation",
+      "learningObjective": "Support the person behind the whistle.",
+      "title": "Time to Cool Down",
+      "scenario": "A call makes you so angry that you want to yell. What should you do first?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Step away and take a few slow breaths."
+        },
+        {
+          "letter": "B",
+          "text": "Kick the fence beside the ref."
+        },
+        {
+          "letter": "C",
+          "text": "Shout whatever comes to mind."
+        },
+        {
+          "letter": "D",
+          "text": "Stay by the field and count every mistake the ref makes."
+        }
+      ],
+      "correctOption": "A",
+      "reveal": "A real break helps you calm down. Keeping a list of mistakes keeps your attention on the anger.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      ],
+      "lesson": {
+        "label": "Respecting referees",
+        "summary": "Support the person behind the whistle.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 2",
+        "detail": "The policy guide encourages everyone to protect officials and keep soccer welcoming.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      }
+    },
+    {
+      "id": 13,
+      "category": "awareness",
+      "subcategory": "coaching-modeling",
+      "learningObjective": "Support the person behind the whistle.",
+      "title": "The Coach Sets the Tone",
+      "scenario": "You are coaching. Your players look at you after a call they dislike. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tell them the ref wants them to lose."
+        },
+        {
+          "letter": "B",
+          "text": "Lead the team in mocking the ref."
+        },
+        {
+          "letter": "C",
+          "text": "Tell them to keep asking the ref until the call changes."
+        },
+        {
+          "letter": "D",
+          "text": "Tell them to focus on the next play."
+        }
+      ],
+      "correctOption": "D",
+      "reveal": "Players learn from your reaction. Help them get back to playing instead of teaching them to wear the ref down.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      ],
+      "lesson": {
+        "label": "Respecting referees",
+        "summary": "Support the person behind the whistle.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 2",
+        "detail": "The policy guide encourages everyone to protect officials and keep soccer welcoming.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      }
+    },
+    {
+      "id": 14,
+      "category": "education",
+      "subcategory": "discrimination",
+      "learningObjective": "Do not attack who someone is.",
+      "title": "A Hurtful Joke",
+      "scenario": "A fan makes fun of the ref’s accent. If it feels safe to speak up, what should you say?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "“Say it louder so the ref hears!”"
+        },
+        {
+          "letter": "B",
+          "text": "“I have an even better joke about them.”"
+        },
+        {
+          "letter": "C",
+          "text": "“That is not okay. Let’s focus on the game.”"
+        },
+        {
+          "letter": "D",
+          "text": "“Save that joke for our group chat.”"
+        }
+      ],
+      "correctOption": "C",
+      "reveal": "Moving a hurtful joke to a private chat does not make it respectful. Someone’s background is never a reason to mock them.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=9"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 4",
+        "summary": "Do not attack who someone is.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 9",
+        "detail": "Covers discriminatory words and actions about identity or background.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=9"
+      }
+    },
+    {
+      "id": 15,
+      "category": "education",
+      "subcategory": "property-damage",
+      "learningObjective": "Do not grab, chase, or corner the ref.",
+      "title": "The Ref’s Bag",
+      "scenario": "You are angry with the ref and standing near their bag. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kick the bag across the ground."
+        },
+        {
+          "letter": "B",
+          "text": "Leave their things alone and walk away."
+        },
+        {
+          "letter": "C",
+          "text": "Dump everything out of the bag."
+        },
+        {
+          "letter": "D",
+          "text": "Move the bag so the ref has to come and talk to you."
+        }
+      ],
+      "correctOption": "B",
+      "reveal": "Using someone’s belongings to force a talk crosses a boundary. Leave their things where they are.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=12"
+      ],
+      "lesson": {
+        "label": "Physical abuse · Level 2",
+        "summary": "Do not grab, chase, or corner the ref.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 12",
+        "detail": "Covers confrontational contact and property damage. Examples include pursuing an official to their car.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=12"
+      }
+    },
+    {
+      "id": 16,
+      "category": "protection",
+      "subcategory": "bystander-intervention",
+      "learningObjective": "Get help. Report what happened.",
+      "title": "Someone Is Yelling",
+      "scenario": "A parent keeps yelling insults at the ref. You are nearby. What is the safest way to help?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ask event staff to step in."
+        },
+        {
+          "letter": "B",
+          "text": "Shout insults back at the parent."
+        },
+        {
+          "letter": "C",
+          "text": "Join in so the ref gets the message."
+        },
+        {
+          "letter": "D",
+          "text": "Stand face-to-face with the parent and refuse to move until they stop."
+        }
+      ],
+      "correctOption": "A",
+      "reveal": "Get help without starting another fight. Trying to force the parent to stop yourself can put you and others at risk.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=15"
+      ],
+      "lesson": {
+        "label": "Protecting referees",
+        "summary": "Get help. Report what happened.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 15",
+        "detail": "Reporting guidance asks for match details, a description, and available unedited evidence through existing reporting channels.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=15"
+      }
+    },
+    {
+      "id": 17,
+      "category": "protection",
+      "subcategory": "incident-response",
+      "learningObjective": "Threatening harm is abuse.",
+      "title": "You Hear a Threat",
+      "scenario": "Someone tells the ref, “I will hurt you after the game.” What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laugh and tell them to go ahead."
+        },
+        {
+          "letter": "B",
+          "text": "Threaten to hurt that person back."
+        },
+        {
+          "letter": "C",
+          "text": "Wait until tomorrow to report it, when everyone is calm."
+        },
+        {
+          "letter": "D",
+          "text": "Tell event staff right away. Call emergency services if danger is immediate."
+        }
+      ],
+      "correctOption": "D",
+      "reveal": "A threat needs prompt help. Waiting may leave the ref at risk when the game ends.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=8"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 3",
+        "summary": "Threatening harm is abuse.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 8",
+        "detail": "Includes threats of violence against officials.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=8"
+      }
+    },
+    {
+      "id": 18,
+      "category": "protection",
+      "subcategory": "post-match-safety",
+      "learningObjective": "Do not grab, chase, or corner the ref.",
+      "title": "Walking Out",
+      "scenario": "The game is over. You are upset, and the ref is walking out nearby. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Follow them and shout about the score."
+        },
+        {
+          "letter": "B",
+          "text": "Get your friends to surround them."
+        },
+        {
+          "letter": "C",
+          "text": "Give them space and leave with your team."
+        },
+        {
+          "letter": "D",
+          "text": "Wait for them outside so you can have a quiet chat about the call."
+        }
+      ],
+      "correctOption": "C",
+      "reveal": "A quiet chat can still feel like being cornered when someone is trying to leave. Use the league’s feedback route later.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=12"
+      ],
+      "lesson": {
+        "label": "Physical abuse · Level 2",
+        "summary": "Do not grab, chase, or corner the ref.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 12",
+        "detail": "Covers confrontational contact and property damage. Examples include pursuing an official to their car.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=12"
+      }
+    },
+    {
+      "id": 19,
+      "category": "protection",
+      "subcategory": "digital-protection",
+      "learningObjective": "Online abuse counts too.",
+      "title": "A Cruel Post",
+      "scenario": "You see a post telling people to harass a ref. How can you help?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Add an insult of your own."
+        },
+        {
+          "letter": "B",
+          "text": "Save evidence and report the post to the platform and league."
+        },
+        {
+          "letter": "C",
+          "text": "Send the post to people who dislike the ref."
+        },
+        {
+          "letter": "D",
+          "text": "Share the post publicly to show everyone how wrong it is."
+        }
+      ],
+      "correctOption": "B",
+      "reveal": "Sharing can send more people toward the ref, even when you mean to help. Report it without spreading it.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=8"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 3",
+        "summary": "Online abuse counts too.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 8",
+        "detail": "Includes cyberbullying and exposing private information to target an official.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=8"
+      }
+    },
+    {
+      "id": 20,
+      "category": "protection",
+      "subcategory": "safe-feedback",
+      "learningObjective": "Get help. Report what happened.",
+      "title": "Sending Feedback",
+      "scenario": "You want to raise a concern about how a game was refereed. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use the league’s feedback channel and describe what happened calmly."
+        },
+        {
+          "letter": "B",
+          "text": "Post that the ref should never work again."
+        },
+        {
+          "letter": "C",
+          "text": "Send the ref an insulting message."
+        },
+        {
+          "letter": "D",
+          "text": "Find the ref’s personal number and call politely."
+        }
+      ],
+      "correctOption": "A",
+      "reveal": "A polite tone does not make a personal phone number the right route. The league can handle feedback without invading the ref’s privacy.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=15"
+      ],
+      "lesson": {
+        "label": "Protecting referees",
+        "summary": "Get help. Report what happened.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 15",
+        "detail": "Reporting guidance asks for match details, a description, and available unedited evidence through existing reporting channels.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=15"
+      }
+    },
+    {
+      "id": 21,
+      "category": "protection",
+      "subcategory": "accountability-repair",
+      "learningObjective": "Support the person behind the whistle.",
+      "title": "Making Things Right",
+      "scenario": "You shouted an insult at the ref. You have calmed down. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blame the ref for making you angry."
+        },
+        {
+          "letter": "B",
+          "text": "Pretend it never happened and do it again next week."
+        },
+        {
+          "letter": "C",
+          "text": "Follow the ref so you can apologize before they leave."
+        },
+        {
+          "letter": "D",
+          "text": "Stop the behavior and ask the league how to pass on an apology."
+        }
+      ],
+      "correctOption": "D",
+      "reveal": "An apology should not force another encounter. Give the ref space, take responsibility, and change what you do next time.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      ],
+      "lesson": {
+        "label": "Respecting referees",
+        "summary": "Support the person behind the whistle.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 2",
+        "detail": "The policy guide encourages everyone to protect officials and keep soccer welcoming.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      }
+    },
+    {
+      "id": 22,
+      "category": "protection",
+      "subcategory": "evidence-preservation",
+      "learningObjective": "Get help. Report what happened.",
+      "title": "A Threat in a Message",
+      "scenario": "Someone sends you a message saying they plan to hurt a ref. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Delete it so nobody gets in trouble."
+        },
+        {
+          "letter": "B",
+          "text": "Reply with ideas for how to scare the ref."
+        },
+        {
+          "letter": "C",
+          "text": "Save the message and report it promptly; get emergency help if danger is immediate."
+        },
+        {
+          "letter": "D",
+          "text": "Post a screenshot for everyone to see who sent it."
+        }
+      ],
+      "correctOption": "C",
+      "reveal": "Keep evidence and send it to people who can act. A public post can spread the threat and expose the ref to more harm.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=15"
+      ],
+      "lesson": {
+        "label": "Protecting referees",
+        "summary": "Get help. Report what happened.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 15",
+        "detail": "Reporting guidance asks for match details, a description, and available unedited evidence through existing reporting channels.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=15"
+      }
+    },
+    {
+      "id": 23,
+      "category": "protection",
+      "subcategory": "bystander-support",
+      "learningObjective": "Support the person behind the whistle.",
+      "title": "A Ref Looks Upset",
+      "scenario": "Fans have been harsh to a young ref. There is a safe moment to speak, and the ref is happy to talk. What could you say?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "“If you cannot take it, quit.”"
+        },
+        {
+          "letter": "B",
+          "text": "“Thanks for being here today. You deserve respect.”"
+        },
+        {
+          "letter": "C",
+          "text": "“The fans were right to yell at you.”"
+        },
+        {
+          "letter": "D",
+          "text": "“Thanks for coming. Now let me explain all your mistakes.”"
+        }
+      ],
+      "correctOption": "B",
+      "reveal": "Support does not need a review of every call. A simple thank-you lets the ref feel valued without another lecture.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      ],
+      "lesson": {
+        "label": "Respecting referees",
+        "summary": "Support the person behind the whistle.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 2",
+        "detail": "The policy guide encourages everyone to protect officials and keep soccer welcoming.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      }
+    },
+    {
+      "id": 24,
+      "category": "education",
+      "subcategory": "intimidation",
+      "learningObjective": "Do not pressure or scare the ref.",
+      "title": "A Yellow Card",
+      "scenario": "You get a yellow card and think it is unfair. The ref tells you to get on with the game. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accept the card and keep playing."
+        },
+        {
+          "letter": "B",
+          "text": "Clap in the ref’s face to mock them."
+        },
+        {
+          "letter": "C",
+          "text": "Scream that the ref knows nothing."
+        },
+        {
+          "letter": "D",
+          "text": "Calmly keep explaining until the ref agrees to review it."
+        }
+      ],
+      "correctOption": "A",
+      "reveal": "A calm voice is good, but continuing after being told to move on is still arguing. Accepting a call does not mean you agree with it.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=7"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 2",
+        "summary": "Do not pressure or scare the ref.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 7",
+        "detail": "Covers harassment and intimidation through words or behavior.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=7"
+      }
+    },
+    {
+      "id": 25,
+      "category": "education",
+      "subcategory": "blocking-restriction",
+      "learningObjective": "Do not pressure or scare the ref.",
+      "title": "In the Way",
+      "scenario": "You are standing at the gate. The ref needs to walk through. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shut the gate so they cannot leave."
+        },
+        {
+          "letter": "B",
+          "text": "Tell them they have to push past you."
+        },
+        {
+          "letter": "C",
+          "text": "Ask them to answer one quick question before you move."
+        },
+        {
+          "letter": "D",
+          "text": "Move aside and let them pass."
+        }
+      ],
+      "correctOption": "D",
+      "reveal": "Letting someone leave should not come with a condition. Move first and respect their space.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=7"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 2",
+        "summary": "Do not pressure or scare the ref.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 7",
+        "detail": "Covers harassment and intimidation through words or behavior.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=7"
+      }
+    },
+    {
+      "id": 26,
+      "category": "education",
+      "subcategory": "verbal-taunting",
+      "learningObjective": "Insults and taunts hurt.",
+      "title": "Uneven Calls",
+      "scenario": "You think the ref keeps giving the other team better calls. You want to raise this later. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shout that the other team paid the ref."
+        },
+        {
+          "letter": "B",
+          "text": "Tell everyone the ref is a cheat."
+        },
+        {
+          "letter": "C",
+          "text": "Send the league clear examples without guessing the ref’s motives."
+        },
+        {
+          "letter": "D",
+          "text": "Send a polite complaint saying the ref must secretly support the other team."
+        }
+      ],
+      "correctOption": "C",
+      "reveal": "Describe what you saw, not a motive you cannot know. A polite accusation is still an accusation.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=6"
+      ],
+      "lesson": {
+        "label": "Non-physical abuse · Level 1",
+        "summary": "Insults and taunts hurt.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 6",
+        "detail": "Covers belittling an official or undermining their authority.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=6"
+      }
+    },
+    {
+      "id": 27,
+      "category": "education",
+      "subcategory": "physical-contact-violent",
+      "learningObjective": "Violence has no place in the game.",
+      "title": "A Dangerous Moment",
+      "scenario": "A teammate says they want to spit at the ref. What should you do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tell them to aim at the ref’s face."
+        },
+        {
+          "letter": "B",
+          "text": "Urge them to step away and get help from the coach."
+        },
+        {
+          "letter": "C",
+          "text": "Join in to show support."
+        },
+        {
+          "letter": "D",
+          "text": "Suggest spitting toward the ref but missing on purpose."
+        }
+      ],
+      "correctOption": "B",
+      "reveal": "Aiming to miss does not make spitting toward someone okay. Help stop the situation before anyone acts.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=13"
+      ],
+      "lesson": {
+        "label": "Physical abuse · Level 3",
+        "summary": "Violence has no place in the game.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 13",
+        "detail": "Covers violent acts such as striking, spitting, and aiming objects at an official.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=13"
+      }
+    },
+    {
+      "id": 28,
+      "category": "awareness",
+      "subcategory": "retention-impact",
+      "learningObjective": "Support the person behind the whistle.",
+      "title": "Keeping Refs in the Game",
+      "scenario": "A friend says referees should just put up with insults. What is the best reply?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "“Everyone deserves respect, even when they make mistakes.”"
+        },
+        {
+          "letter": "B",
+          "text": "“Yes, paying them means we can say anything.”"
+        },
+        {
+          "letter": "C",
+          "text": "“Yes, insults will teach them to do better.”"
+        },
+        {
+          "letter": "D",
+          "text": "“We should only shout at the older refs; they can handle it.”"
+        }
+      ],
+      "correctOption": "A",
+      "reveal": "Respect is for every ref, not just young ones. Age does not make abuse harmless.",
+      "sourceRefs": [
+        "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      ],
+      "lesson": {
+        "label": "Respecting referees",
+        "summary": "Support the person behind the whistle.",
+        "reference": "U.S. Soccer Policy 531-9 · Penalty Summary, p. 2",
+        "detail": "The policy guide encourages everyone to protect officials and keep soccer welcoming.",
+        "url": "https://cdn.sanity.io/files/oyf3dba6/production/de6c84a1f9eccc0eb21bc765bfe6e432ad2ec2f4.pdf#page=2"
+      }
+    }
+  ],
+  "reflectionPrompts": [
+    {
+      "id": "R1",
+      "type": "self-assessment",
+      "prompt": "Which sideline behavior most describes you?",
+      "options": [
+        "Silent supporter (clap, cheer, bring snacks)",
+        "Anxious commentator (narrate to yourself)",
+        "Assistant referee (call plays, correct ref)",
+        "Main character (spectators watch you, not the game)"
+      ]
+    },
+    {
+      "id": "R2",
+      "type": "escalation",
+      "prompt": "What's your personal trigger point at a game?"
+    },
+    {
+      "id": "R3",
+      "type": "reflection",
+      "prompt": "Have you ever regretted something you said or did at a game toward a referee?"
+    },
+    {
+      "id": "R4",
+      "type": "action-planning",
+      "prompt": "What's one thing you'll do differently at your next game to support the referees?",
+      "options": [
+        "Thank them after the match",
+        "Take a break if I feel frustrated",
+        "Speak positively about calls",
+        "Help manage other spectators' behavior"
+      ]
+    },
+    {
+      "id": "R5",
+      "type": "perspective",
+      "prompt": "If you were a 16-year-old referee doing this for $20/match, how would you want to be treated?"
+    }
+  ],
+  "policyReviewedDate": "2026-09-21",
+  "policyRevision": "2026-05-15"
+}
